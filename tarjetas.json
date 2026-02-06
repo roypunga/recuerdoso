@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "category": "Países que están sobre la línea del Ecuador",
+        "count": 13,
+        "answers": ["Ecuador", "Colombia", "Brasil", "Santo Tomé y Príncipe", "Gabón", "República del Congo", "República Democrática del Congo", "Uganda", "Kenia", "Somalia", "Maldivas", "Indonesia", "Kiribati"]
+    },
+    {
+        "id": 2,
+        "category": "Presidentes de facto de Argentina (Siglo XX)",
+        "count": 12,
+        "answers": ["José Félix Uriburu", "Pedro Pablo Ramírez", "Edelmiro Julián Farrell", "Eduardo Lonardi", "Pedro Eugenio Aramburu", "Juan Carlos Onganía", "Roberto Marcelo Levingston", "Alejandro Agustín Lanusse", "Jorge Rafael Videla", "Roberto Eduardo Viola", "Leopoldo Fortunato Galtieri", "Reynaldo Bignone"]
+    },
+    {
+        "id": 3,
+        "category": "Planetas del Sistema Solar",
+        "count": 8,
+        "answers": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano", "Neptuno"]
+    }
+]
