@@ -1,20 +1,1952 @@
 [
-    {
-        "id": 1,
-        "category": "Países que están sobre la línea del Ecuador",
-        "count": 13,
-        "answers": ["Ecuador", "Colombia", "Brasil", "Santo Tomé y Príncipe", "Gabón", "República del Congo", "República Democrática del Congo", "Uganda", "Kenia", "Somalia", "Maldivas", "Indonesia", "Kiribati"]
-    },
-    {
-        "id": 2,
-        "category": "Presidentes de facto de Argentina (Siglo XX)",
-        "count": 12,
-        "answers": ["José Félix Uriburu", "Pedro Pablo Ramírez", "Edelmiro Julián Farrell", "Eduardo Lonardi", "Pedro Eugenio Aramburu", "Juan Carlos Onganía", "Roberto Marcelo Levingston", "Alejandro Agustín Lanusse", "Jorge Rafael Videla", "Roberto Eduardo Viola", "Leopoldo Fortunato Galtieri", "Reynaldo Bignone"]
-    },
-    {
-        "id": 3,
-        "category": "Planetas del Sistema Solar",
-        "count": 8,
-        "answers": ["Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano", "Neptuno"]
-    }
+  {
+    "id": 1,
+    "category": "Planetas del Sistema Solar",
+    "count": 8,
+    "answers": [
+      "Mercurio",
+      "Venus",
+      "Tierra",
+      "Marte",
+      "Júpiter",
+      "Saturno",
+      "Urano",
+      "Neptuno"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Elementos químicos con símbolo de una sola letra",
+    "count": 14,
+    "answers": [
+      "Hidrógeno",
+      "Boro",
+      "Carbono",
+      "Nitrógeno",
+      "Oxígeno",
+      "Flúor",
+      "Fósforo",
+      "Azufre",
+      "Potasio",
+      "Vanadio",
+      "Itrio",
+      "Yodo",
+      "Wolframio",
+      "Uranio"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Pares craneales del cuerpo humano",
+    "count": 12,
+    "answers": [
+      "Nervio olfatorio",
+      "Nervio óptico",
+      "Nervio oculomotor",
+      "Nervio troclear",
+      "Nervio trigémino",
+      "Nervio abducens",
+      "Nervio facial",
+      "Nervio vestibulococlear",
+      "Nervio glosofaríngeo",
+      "Nervio vago",
+      "Nervio accesorio",
+      "Nervio hipogloso"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Países soberanos con costa en el mar Mediterráneo",
+    "count": 21,
+    "answers": [
+      "Albania",
+      "Argelia",
+      "Bosnia y Herzegovina",
+      "Chipre",
+      "Croacia",
+      "Egipto",
+      "Eslovenia",
+      "España",
+      "Francia",
+      "Grecia",
+      "Israel",
+      "Italia",
+      "Líbano",
+      "Libia",
+      "Malta",
+      "Marruecos",
+      "Mónaco",
+      "Montenegro",
+      "Siria",
+      "Túnez",
+      "Turquía"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Signos del horóscopo chino",
+    "count": 12,
+    "answers": [
+      "Rata",
+      "Buey",
+      "Tigre",
+      "Conejo",
+      "Dragón",
+      "Serpiente",
+      "Caballo",
+      "Cabra",
+      "Mono",
+      "Gallo",
+      "Perro",
+      "Cerdo"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Selecciones campeonas de la Copa Mundial de Fútbol Masculino (FIFA)",
+    "count": 8,
+    "answers": [
+      "Brasil",
+      "Alemania",
+      "Italia",
+      "Argentina",
+      "Francia",
+      "Uruguay",
+      "Inglaterra",
+      "España"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Miembros del G20 (Grupo de los Veinte)",
+    "count": 21,
+    "answers": [
+      "Alemania",
+      "Arabia Saudita",
+      "Argentina",
+      "Australia",
+      "Brasil",
+      "Canadá",
+      "China",
+      "Corea del Sur",
+      "Estados Unidos",
+      "Francia",
+      "India",
+      "Indonesia",
+      "Italia",
+      "Japón",
+      "México",
+      "Reino Unido",
+      "Rusia",
+      "Sudáfrica",
+      "Turquía",
+      "Unión Africana",
+      "Unión Europea"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Los 12 trabajos de Hércules",
+    "count": 12,
+    "answers": [
+      "Matar al león de Nemea",
+      "Matar a la Hidra de Lerna",
+      "Capturar a la Cierva de Cerinea",
+      "Capturar al Jabalí de Erimanto",
+      "Limpiar los establos de Augías",
+      "Matar a las Aves del Estínfalo",
+      "Capturar al Toro de Creta",
+      "Robar las Yeguas de Diomedes",
+      "Robar el cinturón de Hipólita",
+      "Robar el ganado de Gerión",
+      "Robar las manzanas del jardín de las Hespérides",
+      "Capturar a Cerbero"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Dioses del Olimpo (Panteón principal)",
+    "count": 12,
+    "answers": [
+      "Zeus",
+      "Hera",
+      "Poseidón",
+      "Deméter",
+      "Atenea",
+      "Apolo",
+      "Artemisa",
+      "Ares",
+      "Afrodita",
+      "Hefesto",
+      "Hermes",
+      "Dionisio"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Largometrajes dirigidos por Quentin Tarantino",
+    "count": 10,
+    "answers": [
+      "Reservoir Dogs",
+      "Pulp Fiction",
+      "Jackie Brown",
+      "Kill Bill: Volumen 1",
+      "Kill Bill: Volumen 2",
+      "Death Proof",
+      "Inglourious Basterds",
+      "Django Unchained",
+      "The Hateful Eight",
+      "Once Upon a Time in Hollywood"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Los Diez Mandamientos (Tradición judeocristiana catequética)",
+    "count": 10,
+    "answers": [
+      "Amarás a Dios sobre todas las cosas",
+      "No tomarás el nombre de Dios en vano",
+      "Santificarás las fiestas",
+      "Honrarás a tu padre y a tu madre",
+      "No matarás",
+      "No cometerás actos impuros",
+      "No robarás",
+      "No dirás falso testimonio ni mentirás",
+      "No consentirás pensamientos ni deseos impuros",
+      "No codiciarás los bienes ajenos"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Las diez plagas de Egipto",
+    "count": 10,
+    "answers": [
+      "Agua convertida en sangre",
+      "Ranas",
+      "Piojos (o mosquitos)",
+      "Moscas (o tábanos)",
+      "Peste del ganado",
+      "Úlceras",
+      "Lluvia de fuego y granizo",
+      "Langostas",
+      "Tinieblas",
+      "Muerte de los primogénitos"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Círculos del Infierno (La Divina Comedia)",
+    "count": 9,
+    "answers": [
+      "Limbo",
+      "Lujuria",
+      "Gula",
+      "Avaricia y Prodigalidad",
+      "Ira y Pereza",
+      "Herejía",
+      "Violencia",
+      "Fraude",
+      "Traición"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Musas de la mitología griega",
+    "count": 9,
+    "answers": [
+      "Calíope",
+      "Clío",
+      "Erato",
+      "Euterpe",
+      "Melpómene",
+      "Polimnia",
+      "Talía",
+      "Terpsícore",
+      "Urania"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Renos de Santa Claus",
+    "count": 9,
+    "answers": [
+      "Dasher",
+      "Dancer",
+      "Prancer",
+      "Vixen",
+      "Comet",
+      "Cupid",
+      "Donner",
+      "Blitzen",
+      "Rudolph"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Películas de la Saga Skywalker (Star Wars)",
+    "count": 9,
+    "answers": [
+      "Episodio I: La amenaza fantasma",
+      "Episodio II: El ataque de los clones",
+      "Episodio III: La venganza de los Sith",
+      "Episodio IV: Una nueva esperanza",
+      "Episodio V: El Imperio contraataca",
+      "Episodio VI: El retorno del Jedi",
+      "Episodio VII: El despertar de la Fuerza",
+      "Episodio VIII: Los últimos Jedi",
+      "Episodio IX: El ascenso de Skywalker"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Los 12 Apóstoles originales de Jesús",
+    "count": 12,
+    "answers": [
+      "Simón Pedro",
+      "Andrés",
+      "Santiago el Mayor",
+      "Juan",
+      "Felipe",
+      "Bartolomé",
+      "Tomás",
+      "Mateo",
+      "Santiago el Menor",
+      "Judas Tadeo",
+      "Simón el Zelote",
+      "Judas Iscariote"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Capitales de los estados federados de Brasil",
+    "count": 27,
+    "answers": [
+      "Rio Branco",
+      "Maceió",
+      "Macapá",
+      "Manaus",
+      "Salvador",
+      "Fortaleza",
+      "Brasília",
+      "Vitória",
+      "Goiânia",
+      "São Luís",
+      "Cuiabá",
+      "Campo Grande",
+      "Belo Horizonte",
+      "Belém",
+      "João Pessoa",
+      "Curitiba",
+      "Recife",
+      "Teresina",
+      "Rio de Janeiro",
+      "Natal",
+      "Porto Alegre",
+      "Porto Velho",
+      "Boa Vista",
+      "Florianópolis",
+      "São Paulo",
+      "Aracaju",
+      "Palmas"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Islas principales del archipiélago de las Canarias",
+    "count": 8,
+    "answers": [
+      "Tenerife",
+      "Gran Canaria",
+      "Lanzarote",
+      "Fuerteventura",
+      "La Palma",
+      "La Gomera",
+      "El Hierro",
+      "La Graciosa"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Países limítrofes de Brasil",
+    "count": 10,
+    "answers": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Guyana",
+      "Guayana Francesa (Francia)",
+      "Paraguay",
+      "Perú",
+      "Surinam",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Países limítrofes de la Francia Metropolitana",
+    "count": 8,
+    "answers": [
+      "España",
+      "Bélgica",
+      "Luxemburgo",
+      "Alemania",
+      "Suiza",
+      "Italia",
+      "Mónaco",
+      "Andorra"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Países soberanos que empiezan con la letra I",
+    "count": 8,
+    "answers": [
+      "India",
+      "Indonesia",
+      "Irak",
+      "Irán",
+      "Irlanda",
+      "Islandia",
+      "Israel",
+      "Italia"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Reyes de España de la dinastía Borbón",
+    "count": 11,
+    "answers": [
+      "Felipe V",
+      "Luis I",
+      "Fernando VI",
+      "Carlos III",
+      "Carlos IV",
+      "Fernando VII",
+      "Isabel II",
+      "Alfonso XII",
+      "Alfonso XIII",
+      "Juan Carlos I",
+      "Felipe VI"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Presidentes de Estados Unidos desde el final de la Segunda Guerra Mundial (1945-2024)",
+    "count": 14,
+    "answers": [
+      "Harry S. Truman",
+      "Dwight D. Eisenhower",
+      "John F. Kennedy",
+      "Lyndon B. Johnson",
+      "Richard Nixon",
+      "Gerald Ford",
+      "Jimmy Carter",
+      "Ronald Reagan",
+      "George H. W. Bush",
+      "Bill Clinton",
+      "George W. Bush",
+      "Barack Obama",
+      "Donald Trump",
+      "Joe Biden"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Enanos de la compañía de Thorin (El Hobbit)",
+    "count": 13,
+    "answers": [
+      "Thorin",
+      "Balin",
+      "Dwalin",
+      "Fíli",
+      "Kíli",
+      "Dori",
+      "Nori",
+      "Ori",
+      "Óin",
+      "Glóin",
+      "Bifur",
+      "Bofur",
+      "Bombur"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Países soberanos atravesados por la línea del Ecuador",
+    "count": 13,
+    "answers": [
+      "Ecuador",
+      "Colombia",
+      "Brasil",
+      "Santo Tomé y Príncipe",
+      "Gabón",
+      "República del Congo",
+      "República Democrática del Congo",
+      "Uganda",
+      "Kenia",
+      "Somalia",
+      "Maldivas",
+      "Indonesia",
+      "Kiribati"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Mariscales del Primer Imperio Francés (Napoleón I)",
+    "count": 26,
+    "answers": [
+      "Augereau",
+      "Bernadotte",
+      "Berthier",
+      "Bessières",
+      "Brune",
+      "Davout",
+      "Gouvion-Saint-Cyr",
+      "Grouchy",
+      "Jourdan",
+      "Kellermann",
+      "Lannes",
+      "Lefebvre",
+      "Macdonald",
+      "Marmont",
+      "Masséna",
+      "Moncey",
+      "Mortier",
+      "Murat",
+      "Ney",
+      "Oudinot",
+      "Pérignon",
+      "Poniatowski",
+      "Sérurier",
+      "Soult",
+      "Suchet",
+      "Victor"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Elementos químicos del Periodo 3",
+    "count": 8,
+    "answers": [
+      "Sodio",
+      "Magnesio",
+      "Aluminio",
+      "Silicio",
+      "Fósforo",
+      "Azufre",
+      "Cloro",
+      "Argón"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Géneros de nubes (Clasificación de la OMM)",
+    "count": 10,
+    "answers": [
+      "Cirrus",
+      "Cirrocumulus",
+      "Cirrostratus",
+      "Altocumulus",
+      "Altostratus",
+      "Nimbostratus",
+      "Stratocumulus",
+      "Stratus",
+      "Cumulus",
+      "Cumulonimbus"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Selecciones ganadoras de la Eurocopa de fútbol",
+    "count": 10,
+    "answers": [
+      "Unión Soviética",
+      "España",
+      "Italia",
+      "Alemania",
+      "Checoslovaquia",
+      "Francia",
+      "Países Bajos",
+      "Dinamarca",
+      "Grecia",
+      "Portugal"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "Escuderías de Fórmula 1 (Temporada 2024)",
+    "count": 10,
+    "answers": [
+      "Red Bull Racing",
+      "Mercedes",
+      "Ferrari",
+      "McLaren",
+      "Aston Martin",
+      "Alpine",
+      "Williams",
+      "RB (Visa Cash App RB)",
+      "Sauber (Kick Sauber)",
+      "Haas"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "Capitales de los países de América del Sur",
+    "count": 12,
+    "answers": [
+      "Buenos Aires",
+      "Sucre",
+      "Brasilia",
+      "Santiago",
+      "Bogotá",
+      "Quito",
+      "Georgetown",
+      "Asunción",
+      "Lima",
+      "Paramaribo",
+      "Montevideo",
+      "Caracas"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "Períodos geológicos del Eón Fanerozoico",
+    "count": 12,
+    "answers": [
+      "Cámbrico",
+      "Ordovícico",
+      "Silúrico",
+      "Devónico",
+      "Carbonífero",
+      "Pérmico",
+      "Triásico",
+      "Jurásico",
+      "Cretácico",
+      "Paleógeno",
+      "Neógeno",
+      "Cuaternario"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "Avatares principales de Vishnu (Dashavatara)",
+    "count": 10,
+    "answers": [
+      "Matsya",
+      "Kurma",
+      "Varaha",
+      "Narasimha",
+      "Vamana",
+      "Parashurama",
+      "Rama",
+      "Krishna",
+      "Buda",
+      "Kalki"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "Países con armas nucleares (declarados y de facto)",
+    "count": 9,
+    "answers": [
+      "Estados Unidos",
+      "Rusia",
+      "Reino Unido",
+      "Francia",
+      "China",
+      "India",
+      "Pakistán",
+      "Coreal del Norte",
+      "Israel"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "Cancilleres de la República Federal de Alemania (1949-2024)",
+    "count": 9,
+    "answers": [
+      "Konrad Adenauer",
+      "Ludwig Erhard",
+      "Kurt Georg Kiesinger",
+      "Willy Brandt",
+      "Helmut Schmidt",
+      "Helmut Kohl",
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Olaf Scholz"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "Prefijos del Sistema Internacional para múltiplos mayores a 1",
+    "count": 12,
+    "answers": [
+      "Deca",
+      "Hecto",
+      "Kilo",
+      "Mega",
+      "Giga",
+      "Tera",
+      "Peta",
+      "Exa",
+      "Zetta",
+      "Yotta",
+      "Ronna",
+      "Quetta"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "Colores de la bandera LGBT original (Diseño de 1978 de Gilbert Baker)",
+    "count": 8,
+    "answers": [
+      "Rosa",
+      "Rojo",
+      "Naranja",
+      "Amarillo",
+      "Verde",
+      "Turquesa",
+      "Índigo (o Azul añil)",
+      "Violeta"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "Papas de la Iglesia Católica desde 1900",
+    "count": 11,
+    "answers": [
+      "León XIII",
+      "Pío X",
+      "Benedicto XV",
+      "Pío XI",
+      "Pío XII",
+      "Juan XXIII",
+      "Pablo VI",
+      "Juan Pablo I",
+      "Juan Pablo II",
+      "Benedicto XVI",
+      "Francisco"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "Largometrajes dirigidos por Christopher Nolan",
+    "count": 12,
+    "answers": [
+      "Following",
+      "Memento",
+      "Insomnia",
+      "Batman Begins",
+      "The Prestige",
+      "The Dark Knight",
+      "Inception",
+      "The Dark Knight Rises",
+      "Interstellar",
+      "Dunkirk",
+      "Tenet",
+      "Oppenheimer"
+    ]
+  },
+  {
+    "id": 41,
+    "category": "Álbumes de estudio de Patricio Rey y sus Redonditos de Ricota",
+    "count": 10,
+    "answers": [
+      "Gulp!",
+      "Oktubre",
+      "Un baión para el ojo idiota",
+      "¡Bang! ¡Bang! ... Estás liquidado",
+      "La mosca y la sopa",
+      "Lobo suelto",
+      "Cordero atado",
+      "Luzbelito",
+      "Último bondi a Finisterre",
+      "Momo Sampler"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "Países miembros de la Eurozona",
+    "count": 20,
+    "answers": [
+      "Alemania",
+      "Austria",
+      "Bélgica",
+      "Chipre",
+      "Croacia",
+      "Eslovaquia",
+      "Eslovenia",
+      "España",
+      "Estonia",
+      "Finlandia",
+      "Francia",
+      "Grecia",
+      "Irlanda",
+      "Italia",
+      "Letonia",
+      "Lituania",
+      "Luxemburgo",
+      "Malta",
+      "Países Bajos",
+      "Portugal"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "Comunidades Autónomas de España",
+    "count": 17,
+    "answers": [
+      "Andalucía",
+      "Aragón",
+      "Asturias",
+      "Baleares",
+      "Canarias",
+      "Cantabria",
+      "Castilla-La Mancha",
+      "Castilla y León",
+      "Cataluña",
+      "Extremadura",
+      "Galicia",
+      "La Rioja",
+      "Madrid",
+      "Murcia",
+      "Navarra",
+      "País Vasco",
+      "Valencia"
+    ]
+  },
+  {
+    "id": 44,
+    "category": "Departamentos de Uruguay",
+    "count": 19,
+    "answers": [
+      "Artigas",
+      "Canelones",
+      "Cerro Largo",
+      "Colonia",
+      "Durazno",
+      "Flores",
+      "Florida",
+      "Lavalleja",
+      "Maldonado",
+      "Montevideo",
+      "Paysandú",
+      "Río Negro",
+      "Rivera",
+      "Rocha",
+      "Salto",
+      "San José",
+      "Soriano",
+      "Tacuarembó",
+      "Treinta y Tres"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "Estados federados de Alemania (Länder)",
+    "count": 16,
+    "answers": [
+      "Baden-Wurtemberg",
+      "Baviera",
+      "Berlín",
+      "Brandeburgo",
+      "Bremen",
+      "Hamburgo",
+      "Hesse",
+      "Mecklemburgo-Pomerania Occidental",
+      "Baja Sajonia",
+      "Renania del Norte-Westfalia",
+      "Renania-Palatinado",
+      "Sarre",
+      "Sajonia",
+      "Sajonia-Anhalt",
+      "Schleswig-Holstein",
+      "Turingia"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "Regiones de Italia",
+    "count": 20,
+    "answers": [
+      "Abruzos",
+      "Basilicata",
+      "Calabria",
+      "Campania",
+      "Cerdeña",
+      "Emilia-Romaña",
+      "Friuli-Venecia Julia",
+      "Lacio",
+      "Liguria",
+      "Lombardía",
+      "Las Marcas",
+      "Molise",
+      "Piamonte",
+      "Apulia",
+      "Sicilia",
+      "Toscana",
+      "Trentino-Alto Adigio",
+      "Umbría",
+      "Valle de Aosta",
+      "Véneto"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "Torneos de tenis actuales de categoría ATP Masters 1000",
+    "count": 9,
+    "answers": [
+      "Indian Wells",
+      "Miami",
+      "Montecarlo",
+      "Madrid",
+      "Roma",
+      "Canadá (Montreal/Toronto)",
+      "Cincinnati",
+      "Shanghái",
+      "París-Bercy"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "Las 12 tribus de Israel",
+    "count": 12,
+    "answers": [
+      "Rubén",
+      "Simeón",
+      "Leví",
+      "Judá",
+      "Dan",
+      "Neftalí",
+      "Gad",
+      "Aser",
+      "Isacar",
+      "Zabulón",
+      "José (dividida en Efraín y Manasés)",
+      "Benjamín"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "Países soberanos que empiezan con la letra E",
+    "count": 12,
+    "answers": [
+      "Ecuador",
+      "Egipto",
+      "El Salvador",
+      "Emiratos Árabes Unidos",
+      "Eritrea",
+      "Eslovaquia",
+      "Eslovenia",
+      "España",
+      "Estados Unidos",
+      "Estonia",
+      "Esuatini",
+      "Etiopía"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "Presidentes de facto de Argentina (1930-1983)",
+    "count": 13,
+    "answers": [
+      "José Félix Uriburu",
+      "Arturo Rawson",
+      "Pedro Pablo Ramírez",
+      "Edelmiro Julián Farrell",
+      "Eduardo Lonardi",
+      "Pedro Eugenio Aramburu",
+      "Juan Carlos Onganía",
+      "Roberto Marcelo Levingston",
+      "Alejandro Agustín Lanusse",
+      "Jorge Rafael Videla",
+      "Roberto Eduardo Viola",
+      "Leopoldo Fortunato Galtieri",
+      "Reynaldo Bignone"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "Provincias de Canadá",
+    "count": 10,
+    "answers": [
+      "Alberta",
+      "Columbia Británica",
+      "Manitoba",
+      "Nuevo Brunswick",
+      "Terranova y Labrador",
+      "Nueva Escocia",
+      "Ontario",
+      "Isla del Príncipe Eduardo",
+      "Quebec",
+      "Saskatchewan"
+    ]
+  },
+  {
+    "id": 52,
+    "category": "Países que limitan con el mar Báltico",
+    "count": 9,
+    "answers": [
+      "Alemania",
+      "Dinamarca",
+      "Estonia",
+      "Finlandia",
+      "Letonia",
+      "Lituania",
+      "Polonia",
+      "Rusia",
+      "Suecia"
+    ]
+  },
+  {
+    "id": 53,
+    "category": "Cantones de Suiza",
+    "count": 26,
+    "answers": [
+      "Zúrich",
+      "Berna",
+      "Lucerna",
+      "Uri",
+      "Schwyz",
+      "Obwalden",
+      "Nidwalden",
+      "Glaris",
+      "Zug",
+      "Friburgo",
+      "Soleura",
+      "Basilea-Ciudad",
+      "Basilea-Campiña",
+      "Schaffhausen",
+      "Appenzell Rodas Exteriores",
+      "Appenzell Rodas Interiores",
+      "San Galo",
+      "Grisones",
+      "Argovia",
+      "Turgovia",
+      "Tesino",
+      "Vaud",
+      "Valais",
+      "Neuchâtel",
+      "Ginebra",
+      "Jura"
+    ]
+  },
+  {
+    "id": 54,
+    "category": "Hijos de la Reina Victoria del Reino Unido",
+    "count": 9,
+    "answers": [
+      "Victoria",
+      "Eduardo VII",
+      "Alicia",
+      "Alfredo",
+      "Elena",
+      "Luisa",
+      "Arturo",
+      "Leopoldo",
+      "Beatriz"
+    ]
+  },
+  {
+    "id": 55,
+    "category": "Líderes supremos de la Unión Soviética (Secretarios Generales/Jefes de Estado de facto)",
+    "count": 8,
+    "answers": [
+      "Vladimir Lenin",
+      "Iósif Stalin",
+      "Gueorgui Malenkov",
+      "Nikita Jrushchov",
+      "Leonid Brézhnev",
+      "Yuri Andrópov",
+      "Konstantín Chernenko",
+      "Mijaíl Gorbachov"
+    ]
+  },
+  {
+    "id": 56,
+    "category": "Clubes de fútbol argentinos campeones de la Copa Libertadores",
+    "count": 8,
+    "answers": [
+      "Independiente",
+      "Boca Juniors",
+      "Estudiantes de La Plata",
+      "River Plate",
+      "Racing Club",
+      "Argentinos Juniors",
+      "Vélez Sarsfield",
+      "San Lorenzo"
+    ]
+  },
+  {
+    "id": 57,
+    "category": "Estados de México",
+    "count": 31,
+    "answers": [
+      "Aguascalientes",
+      "Baja California",
+      "Baja California Sur",
+      "Campeche",
+      "Chiapas",
+      "Chihuahua",
+      "Coahuila",
+      "Colima",
+      "Durango",
+      "Guanajuato",
+      "Guerrero",
+      "Hidalgo",
+      "Jalisco",
+      "México",
+      "Michoacán",
+      "Morelos",
+      "Nayarit",
+      "Nuevo León",
+      "Oaxaca",
+      "Puebla",
+      "Querétaro",
+      "Quintana Roo",
+      "San Luis Potosí",
+      "Sinaloa",
+      "Sonora",
+      "Tabasco",
+      "Tamaulipas",
+      "Tlaxcala",
+      "Veracruz",
+      "Yucatán",
+      "Zacatecas"
+    ]
+  },
+  {
+    "id": 58,
+    "category": "Piedras preciosas del grupo del corindón y el berilo (Variedades principales)",
+    "count": 8,
+    "answers": [
+      "Rubí",
+      "Zafiro",
+      "Esmeralda",
+      "Aguamarina",
+      "Morganita",
+      "Heliodoro",
+      "Bixbita",
+      "Goshenita"
+    ]
+  },
+  {
+    "id": 59,
+    "category": "Miembros fundadores de la OTAN (1949)",
+    "count": 12,
+    "answers": [
+      "Bélgica",
+      "Canadá",
+      "Dinamarca",
+      "Estados Unidos",
+      "Francia",
+      "Islandia",
+      "Italia",
+      "Luxemburgo",
+      "Noruega",
+      "Países Bajos",
+      "Portugal",
+      "Reino Unido"
+    ]
+  },
+  {
+    "id": 60,
+    "category": "Universidades de la Ivy League",
+    "count": 8,
+    "answers": [
+      "Brown",
+      "Columbia",
+      "Cornell",
+      "Dartmouth",
+      "Harvard",
+      "Pensilvania",
+      "Princeton",
+      "Yale"
+    ]
+  },
+  {
+    "id": 61,
+    "category": "Fases lunares (Ciclo completo)",
+    "count": 8,
+    "answers": [
+      "Luna nueva",
+      "Luna creciente",
+      "Cuarto creciente",
+      "Gibosa creciente",
+      "Luna llena",
+      "Gibosa menguante",
+      "Cuarto menguante",
+      "Luna menguante"
+    ]
+  },
+  {
+    "id": 62,
+    "category": "Sistemas del cuerpo humano",
+    "count": 11,
+    "answers": [
+      "Tegumentario",
+      "Esquelético",
+      "Muscular",
+      "Nervioso",
+      "Endocrino",
+      "Cardiovascular",
+      "Linfático",
+      "Respiratorio",
+      "Digestivo",
+      "Urinario",
+      "Reproductivo"
+    ]
+  },
+  {
+    "id": 63,
+    "category": "Aminoácidos estándar (Proteinogénicos)",
+    "count": 20,
+    "answers": [
+      "Alanina",
+      "Arginina",
+      "Asparagina",
+      "Ácido aspártico",
+      "Cisteína",
+      "Glutamina",
+      "Ácido glutámico",
+      "Glicina",
+      "Histidina",
+      "Isoleucina",
+      "Leucina",
+      "Lisina",
+      "Metionina",
+      "Fenilalanina",
+      "Prolina",
+      "Serina",
+      "Treonina",
+      "Triptófano",
+      "Tirosina",
+      "Valina"
+    ]
+  },
+  {
+    "id": 64,
+    "category": "Largometrajes dirigidos por Stanley Kubrick",
+    "count": 13,
+    "answers": [
+      "Fear and Desire",
+      "Killer's Kiss",
+      "The Killing",
+      "Paths of Glory",
+      "Spartacus",
+      "Lolita",
+      "Dr. Strangelove",
+      "2001: A Space Odyssey",
+      "A Clockwork Orange",
+      "Barry Lyndon",
+      "The Shining",
+      "Full Metal Jacket",
+      "Eyes Wide Shut"
+    ]
+  },
+  {
+    "id": 65,
+    "category": "Álbumes de estudio de The Beatles (Edición británica oficial)",
+    "count": 13,
+    "answers": [
+      "Please Please Me",
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Beatles for Sale",
+      "Help!",
+      "Rubber Soul",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour",
+      "The Beatles (White Album)",
+      "Yellow Submarine",
+      "Abbey Road",
+      "Let It Be"
+    ]
+  },
+  {
+    "id": 66,
+    "category": "Álbumes de estudio de Pink Floyd",
+    "count": 15,
+    "answers": [
+      "The Piper at the Gates of Dawn",
+      "A Saucerful of Secrets",
+      "More",
+      "Ummagumma",
+      "Atom Heart Mother",
+      "Meddle",
+      "Obscured by Clouds",
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "Animals",
+      "The Wall",
+      "The Final Cut",
+      "A Momentary Lapse of Reason",
+      "The Division Bell",
+      "The Endless River"
+    ]
+  },
+  {
+    "id": 67,
+    "category": "Álbumes de estudio de Radiohead",
+    "count": 9,
+    "answers": [
+      "Pablo Honey",
+      "The Bends",
+      "OK Computer",
+      "Kid A",
+      "Amnesiac",
+      "Hail to the Thief",
+      "In Rainbows",
+      "The King of Limbs",
+      "A Moon Shaped Pool"
+    ]
+  },
+  {
+    "id": 68,
+    "category": "Largometrajes dirigidos por Hayao Miyazaki (Studio Ghibli y pre-Ghibli)",
+    "count": 12,
+    "answers": [
+      "El castillo de Cagliostro",
+      "Nausicaä del Valle del Viento",
+      "El castillo en el cielo",
+      "Mi vecino Totoro",
+      "Kiki: Entregas a domicilio",
+      "Porco Rosso",
+      "La princesa Mononoke",
+      "El viaje de Chihiro",
+      "El increíble castillo vagabundo",
+      "Ponyo en el acantilado",
+      "El viento se levanta",
+      "El niño y la garza"
+    ]
+  },
+  {
+    "id": 69,
+    "category": "Clases de personajes jugables en Dungeons & Dragons (5ta Edición - Manual del Jugador)",
+    "count": 12,
+    "answers": [
+      "Bárbaro",
+      "Bardo",
+      "Clérigo",
+      "Druida",
+      "Guerrero",
+      "Monje",
+      "Paladín",
+      "Explorador (Ranger)",
+      "Pícaro",
+      "Hechicero",
+      "Brujo (Warlock)",
+      "Mago"
+    ]
+  },
+  {
+    "id": 70,
+    "category": "Letras del alfabeto griego",
+    "count": 24,
+    "answers": [
+      "Alfa",
+      "Beta",
+      "Gamma",
+      "Delta",
+      "Épsilon",
+      "Zeta",
+      "Eta",
+      "Theta",
+      "Iota",
+      "Kappa",
+      "Lambda",
+      "Mu",
+      "Nu",
+      "Xi",
+      "Ómicron",
+      "Pi",
+      "Ro",
+      "Sigma",
+      "Tau",
+      "Ípsilon",
+      "Fi",
+      "Ji",
+      "Psi",
+      "Omega"
+    ]
+  },
+  {
+    "id": 71,
+    "category": "Código fonético de la OTAN (Alfabeto radiofónico)",
+    "count": 26,
+    "answers": [
+      "Alfa",
+      "Bravo",
+      "Charlie",
+      "Delta",
+      "Echo",
+      "Foxtrot",
+      "Golf",
+      "Hotel",
+      "India",
+      "Juliett",
+      "Kilo",
+      "Lima",
+      "Mike",
+      "November",
+      "Oscar",
+      "Papa",
+      "Quebec",
+      "Romeo",
+      "Sierra",
+      "Tango",
+      "Uniform",
+      "Victor",
+      "Whiskey",
+      "X-ray",
+      "Yankee",
+      "Zulu"
+    ]
+  },
+  {
+    "id": 72,
+    "category": "Monarquías soberanas actuales de Europa",
+    "count": 12,
+    "answers": [
+      "Reino Unido",
+      "España",
+      "Países Bajos",
+      "Bélgica",
+      "Dinamarca",
+      "Suecia",
+      "Noruega",
+      "Luxemburgo",
+      "Liechtenstein",
+      "Mónaco",
+      "Ciudad del Vaticano",
+      "Andorra"
+    ]
+  },
+  {
+    "id": 73,
+    "category": "Países miembros de BRICS+ (a enero 2024)",
+    "count": 9,
+    "answers": [
+      "Brasil",
+      "Rusia",
+      "India",
+      "China",
+      "Sudáfrica",
+      "Egipto",
+      "Etiopía",
+      "Irán",
+      "Emiratos Árabes Unidos"
+    ]
+  },
+  {
+    "id": 74,
+    "category": "Civilizaciones originales de Age of Empires II (The Age of Kings)",
+    "count": 13,
+    "answers": [
+      "Britanos",
+      "Bizantinos",
+      "Celtas",
+      "Chinos",
+      "Francos",
+      "Godos",
+      "Japoneses",
+      "Mongoles",
+      "Persas",
+      "Sarracenos",
+      "Teutones",
+      "Turcos",
+      "Vikingos"
+    ]
+  },
+  {
+    "id": 75,
+    "category": "Largometrajes dirigidos por David Fincher",
+    "count": 12,
+    "answers": [
+      "Alien 3",
+      "Se7en",
+      "The Game",
+      "Fight Club",
+      "Panic Room",
+      "Zodiac",
+      "The Curious Case of Benjamin Button",
+      "The Social Network",
+      "The Girl with the Dragon Tattoo",
+      "Gone Girl",
+      "Mank",
+      "The Killer"
+    ]
+  },
+  {
+    "id": 76,
+    "category": "Elementos químicos del Periodo 2",
+    "count": 8,
+    "answers": [
+      "Litio",
+      "Berilio",
+      "Boro",
+      "Carbono",
+      "Nitrógeno",
+      "Oxígeno",
+      "Flúor",
+      "Neón"
+    ]
+  },
+  {
+    "id": 77,
+    "category": "Números primos menores a 20",
+    "count": 8,
+    "answers": [
+      "2",
+      "3",
+      "5",
+      "7",
+      "11",
+      "13",
+      "17",
+      "19"
+    ]
+  },
+  {
+    "id": 78,
+    "category": "Rangos taxonómicos principales (Biología)",
+    "count": 8,
+    "answers": [
+      "Dominio",
+      "Reino",
+      "Filo (o División)",
+      "Clase",
+      "Orden",
+      "Familia",
+      "Género",
+      "Especie"
+    ]
+  },
+  {
+    "id": 79,
+    "category": "Departamentos de Bolivia",
+    "count": 9,
+    "answers": [
+      "Beni",
+      "Chuquisaca",
+      "Cochabamba",
+      "La Paz",
+      "Oruro",
+      "Pando",
+      "Potosí",
+      "Santa Cruz",
+      "Tarija"
+    ]
+  },
+  {
+    "id": 80,
+    "category": "Países limítrofes de Rusia",
+    "count": 14,
+    "answers": [
+      "Noruega",
+      "Finlandia",
+      "Estonia",
+      "Letonia",
+      "Lituania",
+      "Polonia",
+      "Bielorrusia",
+      "Ucrania",
+      "Georgia",
+      "Azerbaiyán",
+      "Kazajistán",
+      "China",
+      "Mongolia",
+      "Corea del Norte"
+    ]
+  },
+  {
+    "id": 81,
+    "category": "Presidentes del Gobierno de España desde la transición (1976-2024)",
+    "count": 7,
+    "answers": [
+      "Adolfo Suárez",
+      "Leopoldo Calvo-Sotelo",
+      "Felipe González",
+      "José María Aznar",
+      "José Luis Rodríguez Zapatero",
+      "Mariano Rajoy",
+      "Pedro Sánchez"
+    ]
+  },
+  {
+    "id": 82,
+    "category": "Provincias de los Países Bajos",
+    "count": 12,
+    "answers": [
+      "Groninga",
+      "Frisia",
+      "Drente",
+      "Overijssel",
+      "Flevoland",
+      "Güeldres",
+      "Utrecht",
+      "Holanda Septentrional",
+      "Holanda Meridional",
+      "Zelanda",
+      "Brabante Septentrional",
+      "Limburgo"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "Misiones tripuladas del programa Apolo",
+    "count": 11,
+    "answers": [
+      "Apolo 7",
+      "Apolo 8",
+      "Apolo 9",
+      "Apolo 10",
+      "Apolo 11",
+      "Apolo 12",
+      "Apolo 13",
+      "Apolo 14",
+      "Apolo 15",
+      "Apolo 16",
+      "Apolo 17"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "Escala de Mohs (Dureza de minerales)",
+    "count": 10,
+    "answers": [
+      "Talco",
+      "Yeso",
+      "Calcita",
+      "Fluorita",
+      "Apatita",
+      "Ortoclasa",
+      "Cuarzo",
+      "Topacio",
+      "Corindón",
+      "Diamante"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "Pilotos de Fórmula 1 con 3 o más campeonatos mundiales",
+    "count": 11,
+    "answers": [
+      "Juan Manuel Fangio",
+      "Jack Brabham",
+      "Jackie Stewart",
+      "Niki Lauda",
+      "Nelson Piquet",
+      "Alain Prost",
+      "Ayrton Senna",
+      "Michael Schumacher",
+      "Sebastian Vettel",
+      "Lewis Hamilton",
+      "Max Verstappen"
+    ]
+  },
+  {
+    "id": 86,
+    "category": "Circuitos de la temporada 2024 de Fórmula 1",
+    "count": 24,
+    "answers": [
+      "Sakhir",
+      "Jeddah",
+      "Albert Park",
+      "Suzuka",
+      "Shanghái",
+      "Miami",
+      "Imola",
+      "Mónaco",
+      "Gilles Villeneuve",
+      "Barcelona-Catalunya",
+      "Red Bull Ring",
+      "Silverstone",
+      "Hungaroring",
+      "Spa-Francorchamps",
+      "Zandvoort",
+      "Monza",
+      "Bakú",
+      "Marina Bay",
+      "COTA (Austin)",
+      "Hermanos Rodríguez",
+      "Interlagos",
+      "Las Vegas",
+      "Losail",
+      "Yas Marina"
+    ]
+  },
+  {
+    "id": 87,
+    "category": "Posiciones en un equipo de Rugby Union (XV)",
+    "count": 12,
+    "answers": [
+      "Pilar izquierdo",
+      "Hooker",
+      "Pilar derecho",
+      "Segunda línea (x2)",
+      "Ala (x2)",
+      "Octavo",
+      "Medio scrum",
+      "Apertura",
+      "Wing (x2)",
+      "Centro interior",
+      "Centro exterior",
+      "Fullback"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "Largometrajes dirigidos por Wes Anderson",
+    "count": 11,
+    "answers": [
+      "Bottle Rocket",
+      "Rushmore",
+      "The Royal Tenenbaums",
+      "The Life Aquatic with Steve Zissou",
+      "The Darjeeling Limited",
+      "Fantastic Mr. Fox",
+      "Moonrise Kingdom",
+      "The Grand Budapest Hotel",
+      "Isle of Dogs",
+      "The French Dispatch",
+      "Asteroid City"
+    ]
+  },
+  {
+    "id": 89,
+    "category": "Álbumes de estudio de Led Zeppelin",
+    "count": 9,
+    "answers": [
+      "Led Zeppelin",
+      "Led Zeppelin II",
+      "Led Zeppelin III",
+      "Led Zeppelin IV",
+      "Houses of the Holy",
+      "Physical Graffiti",
+      "Presence",
+      "In Through the Out Door",
+      "Coda"
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Primeros Ministros del Reino Unido en el siglo XXI (2000-2024)",
+    "count": 8,
+    "answers": [
+      "Tony Blair",
+      "Gordon Brown",
+      "David Cameron",
+      "Theresa May",
+      "Boris Johnson",
+      "Liz Truss",
+      "Rishi Sunak",
+      "Keir Starmer"
+    ]
+  },
+  {
+    "id": 91,
+    "category": "Meses del calendario hebreo (incluyendo Adar II)",
+    "count": 13,
+    "answers": [
+      "Nisán",
+      "Iyar",
+      "Siván",
+      "Tamuz",
+      "Av",
+      "Elul",
+      "Tishrei",
+      "Jeshván",
+      "Kislev",
+      "Tevet",
+      "Shevat",
+      "Adar I",
+      "Adar II"
+    ]
+  },
+  {
+    "id": 92,
+    "category": "Frutos del Espíritu Santo (Tradición católica/Gálatas 5)",
+    "count": 12,
+    "answers": [
+      "Caridad (Amor)",
+      "Gozo",
+      "Paz",
+      "Paciencia",
+      "Longanimidad",
+      "Benignidad",
+      "Bondad",
+      "Mansedumbre",
+      "Fidelidad (Fe)",
+      "Modestia",
+      "Continencia",
+      "Castidad"
+    ]
+  },
+  {
+    "id": 93,
+    "category": "Signatarios del Acta de la Independencia Argentina (Congreso de Tucumán)",
+    "count": 29,
+    "answers": [
+      "Francisco Narciso de Laprida",
+      "Mariano Boedo",
+      "José Mariano Serrano",
+      "Juan José Paso",
+      "Antonio Sáenz",
+      "Cayetano José Rodríguez",
+      "Pedro Medrano",
+      "Manuel Belgrano (promotor, no firmante directo en acta final, pero los firmantes son:)",
+      "Pedro Ignacio de Castro Barros",
+      "José Darragueira",
+      "Esteban Agustín Gascón",
+      "Tomás Manuel de Anchorena",
+      "Manuel Antonio Acevedo",
+      "José Eusebio Colombres",
+      "Eduardo Pérez Bulnes",
+      "José Antonio Cabrera",
+      "Jerónimo Salguero de Cabrera",
+      "Teodoro Sánchez de Bustamante",
+      "Pedro Gallo",
+      "Pedro Miguel Aráoz",
+      "José Ignacio de Gorriti",
+      "Andrés Pacheco de Melo",
+      "Juan Bautista Ruíz de Peralta",
+      "José Andrés Pacheco de Melo",
+      "Mariano Sánchez de Loria",
+      "José Severo Malabia",
+      "Pedro Francisco de Uriarte",
+      "Pedro León Gallo",
+      "Juan Martín de Pueyrredón"
+    ]
+  },
+  {
+    "id": 94,
+    "category": "Series de Star Trek en acción real (Live Action)",
+    "count": 8,
+    "answers": [
+      "The Original Series",
+      "The Next Generation",
+      "Deep Space Nine",
+      "Voyager",
+      "Enterprise",
+      "Discovery",
+      "Picard",
+      "Strange New Worlds"
+    ]
+  },
+  {
+    "id": 95,
+    "category": "Doctores de la serie Doctor Who (Numeración oficial)",
+    "count": 16,
+    "answers": [
+      "Primer Doctor",
+      "Segundo Doctor",
+      "Tercer Doctor",
+      "Cuarto Doctor",
+      "Quinto Doctor",
+      "Sexto Doctor",
+      "Séptimo Doctor",
+      "Octavo Doctor",
+      "War Doctor",
+      "Noveno Doctor",
+      "Décimo Doctor",
+      "Undécimo Doctor",
+      "Duodécimo Doctor",
+      "Decimotercer Doctor",
+      "Decimocuarto Doctor",
+      "Decimoquinto Doctor"
+    ]
+  },
+  {
+    "id": 96,
+    "category": "Estados de Austria (Bundesländer)",
+    "count": 9,
+    "answers": [
+      "Burgenland",
+      "Carintia",
+      "Baja Austria",
+      "Alta Austria",
+      "Salzburgo",
+      "Estiria",
+      "Tirol",
+      "Vorarlberg",
+      "Viena"
+    ]
+  },
+  {
+    "id": 97,
+    "category": "Equipos actuales de la NBA (Conferencia Este)",
+    "count": 15,
+    "answers": [
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "New York Knicks",
+      "Philadelphia 76ers",
+      "Toronto Raptors",
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Detroit Pistons",
+      "Indiana Pacers",
+      "Milwaukee Bucks",
+      "Atlanta Hawks",
+      "Charlotte Hornets",
+      "Miami Heat",
+      "Orlando Magic",
+      "Washington Wizards"
+    ]
+  },
+  {
+    "id": 98,
+    "category": "Equipos actuales de la NBA (Conferencia Oeste)",
+    "count": 15,
+    "answers": [
+      "Denver Nuggets",
+      "Minnesota Timberwolves",
+      "Oklahoma City Thunder",
+      "Portland Trail Blazers",
+      "Utah Jazz",
+      "Golden State Warriors",
+      "Los Angeles Clippers",
+      "Los Angeles Lakers",
+      "Phoenix Suns",
+      "Sacramento Kings",
+      "Dallas Mavericks",
+      "Houston Rockets",
+      "Memphis Grizzlies",
+      "New Orleans Pelicans",
+      "San Antonio Spurs"
+    ]
+  },
+  {
+    "id": 99,
+    "category": "Estados de los Estados Unidos que empiezan con la letra M",
+    "count": 8,
+    "answers": [
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Míchigan",
+      "Minnesota",
+      "Misisipi",
+      "Misuri",
+      "Montana"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "Estados de los Estados Unidos que empiezan con la letra N",
+    "count": 8,
+    "answers": [
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "Nueva Jersey",
+      "Nuevo México",
+      "Nueva York",
+      "Carolina del Norte",
+      "Dakota del Norte"
+    ]
+  }
 ]
