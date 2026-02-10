@@ -1948,5 +1948,2801 @@
       "Carolina del Norte",
       "Dakota del Norte"
     ]
+  },
+  {
+    "id": 101,
+    "category": "Países campeones de la Copa Mundial de Fútbol Masculina (1930-2022)",
+    "count": 8,
+    "answers": [
+      "Brasil",
+      "Alemania",
+      "Italia",
+      "Argentina",
+      "Francia",
+      "Uruguay",
+      "Inglaterra",
+      "España"
+    ]
+  },
+  {
+    "id": 102,
+    "category": "Personajes jugables en Street Fighter II (Versión Arcade original)",
+    "count": 8,
+    "answers": [
+      "Ryu",
+      "Ken",
+      "E. Honda",
+      "Chun-Li",
+      "Blanka",
+      "Zangief",
+      "Guile",
+      "Dhalsim"
+    ]
+  },
+  {
+    "id": 103,
+    "category": "Largometrajes dirigidos por Christopher Nolan",
+    "count": 12,
+    "answers": [
+      "Following",
+      "Memento",
+      "Insomnia",
+      "Batman Begins",
+      "The Prestige",
+      "The Dark Knight",
+      "Inception",
+      "The Dark Knight Rises",
+      "Interstellar",
+      "Dunkirk",
+      "Tenet",
+      "Oppenheimer"
+    ]
+  },
+  {
+    "id": 104,
+    "category": "Países fundadores de la OTAN (1949)",
+    "count": 12,
+    "answers": [
+      "Bélgica",
+      "Canadá",
+      "Dinamarca",
+      "Estados Unidos",
+      "Francia",
+      "Islandia",
+      "Italia",
+      "Luxemburgo",
+      "Noruega",
+      "Países Bajos",
+      "Portugal",
+      "Reino Unido"
+    ]
+  },
+  {
+    "id": 105,
+    "category": "Largometrajes dirigidos por Quentin Tarantino",
+    "count": 10,
+    "answers": [
+      "Reservoir Dogs",
+      "Pulp Fiction",
+      "Jackie Brown",
+      "Kill Bill: Vol. 1",
+      "Kill Bill: Vol. 2",
+      "Death Proof",
+      "Inglourious Basterds",
+      "Django Unchained",
+      "The Hateful Eight",
+      "Once Upon a Time in Hollywood"
+    ]
+  },
+  {
+    "id": 106,
+    "category": "Jugadores ganadores del Balón de Oro (2000-2024)",
+    "count": 13,
+    "answers": [
+      "Luís Figo",
+      "Michael Owen",
+      "Ronaldo Nazário",
+      "Pavel Nedvěd",
+      "Andriy Shevchenko",
+      "Ronaldinho",
+      "Fabio Cannavaro",
+      "Kaká",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Luka Modrić",
+      "Karim Benzema",
+      "Rodri"
+    ]
+  },
+  {
+    "id": 107,
+    "category": "Clases de personajes en el Player's Handbook de Dungeons & Dragons (5ta Edición)",
+    "count": 12,
+    "answers": [
+      "Bárbaro",
+      "Bardo",
+      "Clérigo",
+      "Druida",
+      "Guerrero",
+      "Monje",
+      "Paladín",
+      "Explorador",
+      "Pícaro",
+      "Hechicero",
+      "Brujo",
+      "Mago"
+    ]
+  },
+  {
+    "id": 108,
+    "category": "Equipos argentinos campeones de la Copa Libertadores",
+    "count": 8,
+    "answers": [
+      "Independiente",
+      "Boca Juniors",
+      "River Plate",
+      "Estudiantes de La Plata",
+      "Racing Club",
+      "Vélez Sarsfield",
+      "Argentinos Juniors",
+      "San Lorenzo"
+    ]
+  },
+  {
+    "id": 109,
+    "category": "Héroes originales de Overwatch (Lanzamiento 2016)",
+    "count": 21,
+    "answers": [
+      "Bastion",
+      "D.Va",
+      "Genji",
+      "Hanzo",
+      "Junkrat",
+      "Lúcio",
+      "McCree",
+      "Mei",
+      "Mercy",
+      "Pharah",
+      "Reaper",
+      "Reinhardt",
+      "Roadhog",
+      "Soldier: 76",
+      "Symmetra",
+      "Torbjörn",
+      "Tracer",
+      "Widowmaker",
+      "Winston",
+      "Zarya",
+      "Zenyatta"
+    ]
+  },
+  {
+    "id": 110,
+    "category": "Provincias argentinas atravesadas por la Ruta 40",
+    "count": 11,
+    "answers": [
+      "Santa Cruz",
+      "Chubut",
+      "Río Negro",
+      "Neuquén",
+      "Mendoza",
+      "San Juan",
+      "La Rioja",
+      "Catamarca",
+      "Tucumán",
+      "Salta",
+      "Jujuy"
+    ]
+  },
+  {
+    "id": 111,
+    "category": "Arcanos Mayores del Tarot (Rider-Waite)",
+    "count": 22,
+    "answers": [
+      "El Loco",
+      "El Mago",
+      "La Sacerdotisa",
+      "La Emperatriz",
+      "El Emperador",
+      "El Sumo Sacerdote",
+      "Los Enamorados",
+      "El Carro",
+      "La Fuerza",
+      "El Ermitaño",
+      "La Rueda de la Fortuna",
+      "La Justicia",
+      "El Colgado",
+      "La Muerte",
+      "La Templanza",
+      "El Diablo",
+      "La Torre",
+      "La Estrella",
+      "La Luna",
+      "El Sol",
+      "El Juicio",
+      "El Mundo"
+    ]
+  },
+  {
+    "id": 112,
+    "category": "Películas ganadoras del Óscar a la Mejor Película de Animación (2001-2023)",
+    "count": 23,
+    "answers": [
+      "Shrek",
+      "El viaje de Chihiro",
+      "Buscando a Nemo",
+      "Los Increíbles",
+      "Wallace y Gromit: La maldición de las verduras",
+      "Happy Feet",
+      "Ratatouille",
+      "WALL-E",
+      "Up",
+      "Toy Story 3",
+      "Rango",
+      "Valiente",
+      "Frozen",
+      "Big Hero 6",
+      "Inside Out",
+      "Zootopia",
+      "Coco",
+      "Spider-Man: Into the Spider-Verse",
+      "Toy Story 4",
+      "Soul",
+      "Encanto",
+      "Pinocho de Guillermo del Toro",
+      "El niño y la garza"
+    ]
+  },
+  {
+    "id": 113,
+    "category": "Civilizaciones en Age of Empires II: The Age of Kings (Juego base)",
+    "count": 13,
+    "answers": [
+      "Ingleses",
+      "Bizantinos",
+      "Celtas",
+      "Chinos",
+      "Francos",
+      "Godos",
+      "Japoneses",
+      "Mongoles",
+      "Persas",
+      "Sarracenos",
+      "Teutones",
+      "Turcos",
+      "Vikingos"
+    ]
+  },
+  {
+    "id": 114,
+    "category": "Países atravesados por la línea del ecuador",
+    "count": 13,
+    "answers": [
+      "Ecuador",
+      "Colombia",
+      "Brasil",
+      "Santo Tomé y Príncipe",
+      "Gabón",
+      "República del Congo",
+      "República Democrática del Congo",
+      "Uganda",
+      "Kenia",
+      "Somalia",
+      "Maldivas",
+      "Indonesia",
+      "Kiribati"
+    ]
+  },
+  {
+    "id": 115,
+    "category": "Renos de Papá Noel (Tradición moderna)",
+    "count": 9,
+    "answers": [
+      "Dasher",
+      "Dancer",
+      "Prancer",
+      "Vixen",
+      "Comet",
+      "Cupid",
+      "Donner",
+      "Blitzen",
+      "Rudolph"
+    ]
+  },
+  {
+    "id": 116,
+    "category": "Manos del póquer (Jerarquía estándar de menor a mayor)",
+    "count": 10,
+    "answers": [
+      "Carta alta",
+      "Par",
+      "Doble par",
+      "Trío",
+      "Escalera",
+      "Color",
+      "Full House",
+      "Póquer",
+      "Escalera de color",
+      "Escalera real"
+    ]
+  },
+  {
+    "id": 117,
+    "category": "Géneros de nubes (Clasificación de la OMM)",
+    "count": 10,
+    "answers": [
+      "Cirros",
+      "Cirrocúmulos",
+      "Cirroestratos",
+      "Altocúmulos",
+      "Altoestratos",
+      "Nimboestratos",
+      "Estratocúmulos",
+      "Estratos",
+      "Cúmulos",
+      "Cumulonimbos"
+    ]
+  },
+  {
+    "id": 118,
+    "category": "Películas de Star Wars: La Saga Skywalker (Episodios I-IX)",
+    "count": 9,
+    "answers": [
+      "La amenaza fantasma",
+      "El ataque de los clones",
+      "La venganza de los Sith",
+      "Una nueva esperanza",
+      "El Imperio contraataca",
+      "El retorno del Jedi",
+      "El despertar de la Fuerza",
+      "Los últimos Jedi",
+      "El ascenso de Skywalker"
+    ]
+  },
+  {
+    "id": 119,
+    "category": "Álbumes de estudio de The Beatles (Discografía oficial británica)",
+    "count": 13,
+    "answers": [
+      "Please Please Me",
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Beatles for Sale",
+      "Help!",
+      "Rubber Soul",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour",
+      "The Beatles (White Album)",
+      "Yellow Submarine",
+      "Abbey Road",
+      "Let It Be"
+    ]
+  },
+  {
+    "id": 120,
+    "category": "Alfabeto radiofónico de la OTAN",
+    "count": 26,
+    "answers": [
+      "Alfa",
+      "Bravo",
+      "Charlie",
+      "Delta",
+      "Echo",
+      "Foxtrot",
+      "Golf",
+      "Hotel",
+      "India",
+      "Juliett",
+      "Kilo",
+      "Lima",
+      "Mike",
+      "November",
+      "Oscar",
+      "Papa",
+      "Quebec",
+      "Romeo",
+      "Sierra",
+      "Tango",
+      "Uniform",
+      "Victor",
+      "Whiskey",
+      "X-ray",
+      "Yankee",
+      "Zulu"
+    ]
+  },
+  {
+    "id": 121,
+    "category": "Elementos químicos con símbolo de una sola letra",
+    "count": 14,
+    "answers": [
+      "Boro",
+      "Carbono",
+      "Flúor",
+      "Hidrógeno",
+      "Yodo",
+      "Potasio",
+      "Nitrógeno",
+      "Oxígeno",
+      "Fósforo",
+      "Azufre",
+      "Uranio",
+      "Vanadio",
+      "Wolframio",
+      "Itrio"
+    ]
+  },
+  {
+    "id": 122,
+    "category": "Largometrajes dirigidos por Stanley Kubrick",
+    "count": 13,
+    "answers": [
+      "Fear and Desire",
+      "Killer's Kiss",
+      "The Killing",
+      "Paths of Glory",
+      "Spartacus",
+      "Lolita",
+      "Dr. Strangelove",
+      "2001: A Space Odyssey",
+      "A Clockwork Orange",
+      "Barry Lyndon",
+      "The Shining",
+      "Full Metal Jacket",
+      "Eyes Wide Shut"
+    ]
+  },
+  {
+    "id": 123,
+    "category": "Personajes jugables en Super Smash Bros. (Nintendo 64)",
+    "count": 12,
+    "answers": [
+      "Mario",
+      "Donkey Kong",
+      "Link",
+      "Samus",
+      "Yoshi",
+      "Kirby",
+      "Fox",
+      "Pikachu",
+      "Luigi",
+      "Captain Falcon",
+      "Ness",
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 124,
+    "category": "Provincias argentinas con nombre compuesto de exactamente dos palabras",
+    "count": 9,
+    "answers": [
+      "Buenos Aires",
+      "Entre Ríos",
+      "La Pampa",
+      "La Rioja",
+      "Río Negro",
+      "San Juan",
+      "San Luis",
+      "Santa Cruz",
+      "Santa Fe"
+    ]
+  },
+  {
+    "id": 125,
+    "category": "Clases de personajes en Team Fortress 2",
+    "count": 9,
+    "answers": [
+      "Scout",
+      "Soldier",
+      "Pyro",
+      "Demoman",
+      "Heavy",
+      "Engineer",
+      "Medic",
+      "Sniper",
+      "Spy"
+    ]
+  },
+  {
+    "id": 126,
+    "category": "Vicepresidentes electos de la Nación Argentina (Desde el retorno de la democracia 1983-2023)",
+    "count": 10,
+    "answers": [
+      "Víctor Martínez",
+      "Eduardo Duhalde",
+      "Carlos Ruckauf",
+      "Carlos Álvarez",
+      "Daniel Scioli",
+      "Julio Cobos",
+      "Amado Boudou",
+      "Gabriela Michetti",
+      "Cristina Fernández de Kirchner",
+      "Victoria Villarruel"
+    ]
+  },
+  {
+    "id": 127,
+    "category": "Sitios de Patrimonio Mundial de la UNESCO en Argentina",
+    "count": 12,
+    "answers": [
+      "Los Glaciares",
+      "Misiones Jesuíticas Guaraníes",
+      "Parque Nacional Iguazú",
+      "Cueva de las Manos",
+      "Península Valdés",
+      "Parques Naturales de Ischigualasto y Talampaya",
+      "Manzana y Estancias Jesuíticas de Córdoba",
+      "Quebrada de Humahuaca",
+      "Qhapaq Ñan (Sistema Vial Andino)",
+      "Obra arquitectónica de Le Corbusier (Casa Curutchet)",
+      "Parque Nacional Los Alerces",
+      "Museo Sitio de Memoria ESMA"
+    ]
+  },
+  {
+    "id": 128,
+    "category": "Miembros originales de la Primera Junta de Gobierno (Argentina 1810)",
+    "count": 9,
+    "answers": [
+      "Cornelio Saavedra",
+      "Mariano Moreno",
+      "Juan José Paso",
+      "Manuel Belgrano",
+      "Juan José Castelli",
+      "Miguel de Azcuénaga",
+      "Manuel Alberti",
+      "Domingo Matheu",
+      "Juan Larrea"
+    ]
+  },
+  {
+    "id": 129,
+    "category": "Películas de la saga Rocky (incluyendo la saga Creed)",
+    "count": 9,
+    "answers": [
+      "Rocky",
+      "Rocky II",
+      "Rocky III",
+      "Rocky IV",
+      "Rocky V",
+      "Rocky Balboa",
+      "Creed",
+      "Creed II",
+      "Creed III"
+    ]
+  },
+  {
+    "id": 130,
+    "category": "Juegos de la saga principal de The Legend of Zelda en consolas de sobremesa",
+    "count": 10,
+    "answers": [
+      "The Legend of Zelda",
+      "The Adventure of Link",
+      "A Link to the Past",
+      "Ocarina of Time",
+      "Majora's Mask",
+      "The Wind Waker",
+      "Twilight Princess",
+      "Skyward Sword",
+      "Breath of the Wild",
+      "Tears of the Kingdom"
+    ]
+  },
+  {
+    "id": 131,
+    "category": "Países miembros del G20 (Estados soberanos permanentes)",
+    "count": 19,
+    "answers": [
+      "Alemania",
+      "Arabia Saudita",
+      "Argentina",
+      "Australia",
+      "Brasil",
+      "Canadá",
+      "China",
+      "Corea del Sur",
+      "Estados Unidos",
+      "Francia",
+      "India",
+      "Indonesia",
+      "Italia",
+      "Japón",
+      "México",
+      "Reino Unido",
+      "Rusia",
+      "Sudáfrica",
+      "Turquía"
+    ]
+  },
+  {
+    "id": 132,
+    "category": "Titanes de la primera generación en la mitología griega (Hesíodo)",
+    "count": 12,
+    "answers": [
+      "Océano",
+      "Ceo",
+      "Crío",
+      "Hiperión",
+      "Jápeto",
+      "Cronos",
+      "Tea",
+      "Rea",
+      "Temis",
+      "Mnemósine",
+      "Febe",
+      "Tetis"
+    ]
+  },
+  {
+    "id": 133,
+    "category": "Integrantes originales de la Comunidad del Anillo (El Señor de los Anillos)",
+    "count": 9,
+    "answers": [
+      "Frodo Bolsón",
+      "Samwise Gamgee",
+      "Meriadoc Brandybuck",
+      "Peregrin Took",
+      "Aragorn",
+      "Boromir",
+      "Legolas",
+      "Gimli",
+      "Gandalf"
+    ]
+  },
+  {
+    "id": 134,
+    "category": "Mapas oficiales de desactivación de bomba en Counter-Strike 1.6 (Prefijo de_)",
+    "count": 14,
+    "answers": [
+      "Aztec",
+      "Cbble",
+      "Chateau",
+      "Dust",
+      "Dust2",
+      "Inferno",
+      "Nuke",
+      "Piranesi",
+      "Prodigy",
+      "Storm",
+      "Survivor",
+      "Torn",
+      "Train",
+      "Vertigo"
+    ]
+  },
+  {
+    "id": 135,
+    "category": "Comunidades Autónomas de España",
+    "count": 17,
+    "answers": [
+      "Andalucía",
+      "Aragón",
+      "Principado de Asturias",
+      "Islas Baleares",
+      "Canarias",
+      "Cantabria",
+      "Castilla-La Mancha",
+      "Castilla y León",
+      "Cataluña",
+      "Extremadura",
+      "Galicia",
+      "Comunidad de Madrid",
+      "Región de Murcia",
+      "Comunidad Foral de Navarra",
+      "País Vasco",
+      "La Rioja",
+      "Comunidad Valenciana"
+    ]
+  },
+  {
+    "id": 136,
+    "category": "Grupos de colores de las propiedades en el Monopoly estándar",
+    "count": 8,
+    "answers": [
+      "Marrón",
+      "Celeste",
+      "Rosa",
+      "Naranja",
+      "Rojo",
+      "Amarillo",
+      "Verde",
+      "Azul oscuro"
+    ]
+  },
+  {
+    "id": 137,
+    "category": "Largometrajes dirigidos por David Fincher",
+    "count": 12,
+    "answers": [
+      "Alien 3",
+      "Se7en",
+      "The Game",
+      "Fight Club",
+      "Panic Room",
+      "Zodiac",
+      "The Curious Case of Benjamin Button",
+      "The Social Network",
+      "The Girl with the Dragon Tattoo",
+      "Gone Girl",
+      "Mank",
+      "The Killer"
+    ]
+  },
+  {
+    "id": 138,
+    "category": "Entrenadores de la Selección Argentina en Mundiales (1978-2022)",
+    "count": 10,
+    "answers": [
+      "César Luis Menotti",
+      "Carlos Bilardo",
+      "Alfio Basile",
+      "Daniel Passarella",
+      "Marcelo Bielsa",
+      "José Néstor Pekerman",
+      "Diego Maradona",
+      "Alejandro Sabella",
+      "Jorge Sampaoli",
+      "Lionel Scaloni"
+    ]
+  },
+  {
+    "id": 139,
+    "category": "Versiones mayores de Microsoft Windows para PC (Línea de consumo/hogar)",
+    "count": 14,
+    "answers": [
+      "Windows 1.0",
+      "Windows 2.0",
+      "Windows 3.0",
+      "Windows 3.1",
+      "Windows 95",
+      "Windows 98",
+      "Windows Me",
+      "Windows XP",
+      "Windows Vista",
+      "Windows 7",
+      "Windows 8",
+      "Windows 8.1",
+      "Windows 10",
+      "Windows 11"
+    ]
+  },
+  {
+    "id": 140,
+    "category": "Álbumes de estudio de Pink Floyd",
+    "count": 15,
+    "answers": [
+      "The Piper at the Gates of Dawn",
+      "A Saucerful of Secrets",
+      "More",
+      "Ummagumma",
+      "Atom Heart Mother",
+      "Meddle",
+      "Obscured by Clouds",
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "Animals",
+      "The Wall",
+      "The Final Cut",
+      "A Momentary Lapse of Reason",
+      "The Division Bell",
+      "The Endless River"
+    ]
+  },
+  {
+    "id": 141,
+    "category": "Capitales de los países de América del Sur",
+    "count": 13,
+    "answers": [
+      "Buenos Aires",
+      "Sucre",
+      "La Paz",
+      "Brasilia",
+      "Santiago",
+      "Bogotá",
+      "Quito",
+      "Georgetown",
+      "Asunción",
+      "Lima",
+      "Paramaribo",
+      "Montevideo",
+      "Caracas"
+    ]
+  },
+  {
+    "id": 142,
+    "category": "Apóstoles de Jesús (Los Doce originales)",
+    "count": 12,
+    "answers": [
+      "Simón Pedro",
+      "Andrés",
+      "Santiago el Mayor",
+      "Juan",
+      "Felipe",
+      "Bartolomé",
+      "Tomás",
+      "Mateo",
+      "Santiago el Menor",
+      "Tadeo",
+      "Simón el Zelote",
+      "Judas Iscariote"
+    ]
+  },
+  {
+    "id": 143,
+    "category": "Países con arsenal nuclear confirmado",
+    "count": 9,
+    "answers": [
+      "Estados Unidos",
+      "Rusia",
+      "Reino Unido",
+      "Francia",
+      "China",
+      "India",
+      "Pakistán",
+      "Israel",
+      "Corea del Norte"
+    ]
+  },
+  {
+    "id": 144,
+    "category": "Selecciones nacionales ganadoras de la Eurocopa (1960-2024)",
+    "count": 10,
+    "answers": [
+      "Unión Soviética",
+      "España",
+      "Italia",
+      "Alemania",
+      "Checoslovaquia",
+      "Francia",
+      "Países Bajos",
+      "Dinamarca",
+      "Grecia",
+      "Portugal"
+    ]
+  },
+  {
+    "id": 145,
+    "category": "Círculos del Infierno en la Divina Comedia (Dante Alighieri)",
+    "count": 9,
+    "answers": [
+      "Limbo",
+      "Lujuria",
+      "Gula",
+      "Avaricia",
+      "Ira",
+      "Herejía",
+      "Violencia",
+      "Fraude",
+      "Traición"
+    ]
+  },
+  {
+    "id": 146,
+    "category": "Actores que interpretaron a Batman en películas de acción real (Live-action en cine)",
+    "count": 9,
+    "answers": [
+      "Lewis Wilson",
+      "Robert Lowery",
+      "Adam West",
+      "Michael Keaton",
+      "Val Kilmer",
+      "George Clooney",
+      "Christian Bale",
+      "Ben Affleck",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": 147,
+    "category": "Provincias de Argentina que limitan con Chile",
+    "count": 11,
+    "answers": [
+      "Jujuy",
+      "Salta",
+      "Catamarca",
+      "La Rioja",
+      "San Juan",
+      "Mendoza",
+      "Neuquén",
+      "Río Negro",
+      "Chubut",
+      "Santa Cruz",
+      "Tierra del Fuego"
+    ]
+  },
+  {
+    "id": 148,
+    "category": "Largometrajes de Pixar estrenados entre 2010 y 2019",
+    "count": 11,
+    "answers": [
+      "Toy Story 3",
+      "Cars 2",
+      "Brave",
+      "Monsters University",
+      "Inside Out",
+      "The Good Dinosaur",
+      "Finding Dory",
+      "Cars 3",
+      "Coco",
+      "Incredibles 2",
+      "Toy Story 4"
+    ]
+  },
+  {
+    "id": 149,
+    "category": "Equipos (Constructores) de la temporada 2024 de Fórmula 1",
+    "count": 10,
+    "answers": [
+      "Red Bull Racing",
+      "Mercedes",
+      "Ferrari",
+      "McLaren",
+      "Aston Martin",
+      "Alpine",
+      "Williams",
+      "RB",
+      "Kick Sauber",
+      "Haas"
+    ]
+  },
+  {
+    "id": 150,
+    "category": "Juegos de la saga principal de Metal Gear dirigidos por Hideo Kojima",
+    "count": 8,
+    "answers": [
+      "Metal Gear",
+      "Metal Gear 2: Solid Snake",
+      "Metal Gear Solid",
+      "Metal Gear Solid 2: Sons of Liberty",
+      "Metal Gear Solid 3: Snake Eater",
+      "Metal Gear Solid 4: Guns of the Patriots",
+      "Metal Gear Solid: Peace Walker",
+      "Metal Gear Solid V: The Phantom Pain"
+    ]
+  },
+  {
+    "id": 151,
+    "category": "Tipos de dragones en The Elder Scrolls V: Skyrim (Juego base y DLCs)",
+    "count": 8,
+    "answers": [
+      "Dragón",
+      "Dragón de sangre",
+      "Dragón de escarcha",
+      "Dragón viejo",
+      "Dragón anciano",
+      "Dragón venerable",
+      "Dragón legendario",
+      "Dragón serpentino"
+    ]
+  },
+  {
+    "id": 152,
+    "category": "Largometrajes dirigidos por Denis Villeneuve",
+    "count": 11,
+    "answers": [
+      "Un 32 de agosto en la Tierra",
+      "Maelström",
+      "Polytechnique",
+      "Incendies",
+      "Prisoners",
+      "Enemy",
+      "Sicario",
+      "Arrival",
+      "Blade Runner 2049",
+      "Dune",
+      "Dune: Part Two"
+    ]
+  },
+  {
+    "id": 153,
+    "category": "Directores ganadores del Óscar a Mejor Dirección (2010-2023)",
+    "count": 13,
+    "answers": [
+      "Tom Hooper",
+      "Michel Hazanavicius",
+      "Ang Lee",
+      "Alfonso Cuarón",
+      "Alejandro González Iñárritu",
+      "Damien Chazelle",
+      "Guillermo del Toro",
+      "Bong Joon-ho",
+      "Chloé Zhao",
+      "Jane Campion",
+      "Daniel Kwan",
+      "Daniel Scheinert",
+      "Christopher Nolan"
+    ]
+  },
+  {
+    "id": 154,
+    "category": "Pares craneales del cuerpo humano",
+    "count": 12,
+    "answers": [
+      "Nervio olfatorio",
+      "Nervio óptico",
+      "Nervio oculomotor",
+      "Nervio troclear",
+      "Nervio trigémino",
+      "Nervio abducens",
+      "Nervio facial",
+      "Nervio vestibulococlear",
+      "Nervio glosofaríngeo",
+      "Nervio vago",
+      "Nervio accesorio",
+      "Nervio hipogloso"
+    ]
+  },
+  {
+    "id": 155,
+    "category": "Países que han sido sede de la Copa Mundial de Fútbol Masculina",
+    "count": 18,
+    "answers": [
+      "Uruguay",
+      "Italia",
+      "Francia",
+      "Brasil",
+      "Suiza",
+      "Suecia",
+      "Chile",
+      "Inglaterra",
+      "México",
+      "Alemania",
+      "Argentina",
+      "España",
+      "Estados Unidos",
+      "Corea del Sur",
+      "Japón",
+      "Sudáfrica",
+      "Rusia",
+      "Qatar"
+    ]
+  },
+  {
+    "id": 156,
+    "category": "Libros de la saga de Geralt de Rivia (The Witcher) de Andrzej Sapkowski",
+    "count": 8,
+    "answers": [
+      "El último deseo",
+      "La espada del destino",
+      "La sangre de los elfos",
+      "Tiempo de odio",
+      "Bautismo de fuego",
+      "La torre de la golondrina",
+      "La dama del lago",
+      "Estación de tormentas"
+    ]
+  },
+  {
+    "id": 157,
+    "category": "Presidentes de la Nación Argentina elegidos por voto popular (Desde 1983)",
+    "count": 8,
+    "answers": [
+      "Raúl Alfonsín",
+      "Carlos Menem",
+      "Fernando de la Rúa",
+      "Néstor Kirchner",
+      "Cristina Fernández de Kirchner",
+      "Mauricio Macri",
+      "Alberto Fernández",
+      "Javier Milei"
+    ]
+  },
+  {
+    "id": 158,
+    "category": "Equipos actuales de la NBA",
+    "count": 30,
+    "answers": [
+      "Atlanta Hawks",
+      "Boston Celtics",
+      "Brooklyn Nets",
+      "Charlotte Hornets",
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Dallas Mavericks",
+      "Denver Nuggets",
+      "Detroit Pistons",
+      "Golden State Warriors",
+      "Houston Rockets",
+      "Indiana Pacers",
+      "Los Angeles Clippers",
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "Miami Heat",
+      "Milwaukee Bucks",
+      "Minnesota Timberwolves",
+      "New Orleans Pelicans",
+      "New York Knicks",
+      "Oklahoma City Thunder",
+      "Orlando Magic",
+      "Philadelphia 76ers",
+      "Phoenix Suns",
+      "Portland Trail Blazers",
+      "Sacramento Kings",
+      "San Antonio Spurs",
+      "Toronto Raptors",
+      "Utah Jazz",
+      "Washington Wizards"
+    ]
+  },
+  {
+    "id": 159,
+    "category": "Largometrajes dirigidos por Wes Anderson",
+    "count": 11,
+    "answers": [
+      "Bottle Rocket",
+      "Rushmore",
+      "The Royal Tenenbaums",
+      "The Life Aquatic with Steve Zissou",
+      "The Darjeeling Limited",
+      "Fantastic Mr. Fox",
+      "Moonrise Kingdom",
+      "The Grand Budapest Hotel",
+      "Isle of Dogs",
+      "The French Dispatch",
+      "Asteroid City"
+    ]
+  },
+  {
+    "id": 160,
+    "category": "Minerales de la escala de dureza de Mohs (Del 1 al 10)",
+    "count": 10,
+    "answers": [
+      "Talco",
+      "Yeso",
+      "Calcita",
+      "Fluorita",
+      "Apatita",
+      "Ortosa",
+      "Cuarzo",
+      "Topacio",
+      "Corindón",
+      "Diamante"
+    ]
+  },
+  {
+    "id": 161,
+    "category": "Ángeles (Apóstoles) en Neon Genesis Evangelion",
+    "count": 18,
+    "answers": [
+      "Adam",
+      "Lilith",
+      "Sachiel",
+      "Shamshel",
+      "Ramiel",
+      "Gaghiel",
+      "Israfel",
+      "Sandalphon",
+      "Matarael",
+      "Sahaquiel",
+      "Ireul",
+      "Leliel",
+      "Bardiel",
+      "Zeruel",
+      "Arael",
+      "Armisael",
+      "Tabris",
+      "Lilin"
+    ]
+  },
+  {
+    "id": 162,
+    "category": "Los doce trabajos de Hércules",
+    "count": 12,
+    "answers": [
+      "Matar al león de Nemea",
+      "Matar a la hidra de Lerna",
+      "Capturar a la cierva de Cerinea",
+      "Capturar al jabalí de Erimanto",
+      "Limpiar los establos de Augías",
+      "Matar a las aves del Estínfalo",
+      "Capturar al toro de Creta",
+      "Robar las yeguas de Diomedes",
+      "Robar el cinturón de Hipólita",
+      "Robar el ganado de Gerión",
+      "Robar las manzanas de las Hespérides",
+      "Capturar a Cerbero"
+    ]
+  },
+  {
+    "id": 163,
+    "category": "Películas de la saga de Harry Potter (Cine)",
+    "count": 8,
+    "answers": [
+      "Harry Potter y la piedra filosofal",
+      "Harry Potter y la cámara secreta",
+      "Harry Potter y el prisionero de Azkaban",
+      "Harry Potter y el cáliz de fuego",
+      "Harry Potter y la Orden del Fénix",
+      "Harry Potter y el misterio del príncipe",
+      "Harry Potter y las Reliquias de la Muerte: parte 1",
+      "Harry Potter y las Reliquias de la Muerte: parte 2"
+    ]
+  },
+  {
+    "id": 164,
+    "category": "Películas del Universo Cinematográfico de Marvel: Fase 3",
+    "count": 11,
+    "answers": [
+      "Captain America: Civil War",
+      "Doctor Strange",
+      "Guardians of the Galaxy Vol. 2",
+      "Spider-Man: Homecoming",
+      "Thor: Ragnarok",
+      "Black Panther",
+      "Avengers: Infinity War",
+      "Ant-Man and the Wasp",
+      "Captain Marvel",
+      "Avengers: Endgame",
+      "Spider-Man: Far From Home"
+    ]
+  },
+  {
+    "id": 165,
+    "category": "Países del continente Europa en el juego de mesa TEG (Tradicional)",
+    "count": 9,
+    "answers": [
+      "Alemania",
+      "España",
+      "Francia",
+      "Gran Bretaña",
+      "Islandia",
+      "Italia",
+      "Polonia",
+      "Rusia",
+      "Suecia"
+    ]
+  },
+  {
+    "id": 166,
+    "category": "Largometrajes dirigidos por James Cameron",
+    "count": 9,
+    "answers": [
+      "Piranha II: The Spawning",
+      "The Terminator",
+      "Aliens",
+      "The Abyss",
+      "Terminator 2: Judgment Day",
+      "True Lies",
+      "Titanic",
+      "Avatar",
+      "Avatar: The Way of Water"
+    ]
+  },
+  {
+    "id": 167,
+    "category": "Tipos de Inteligencias Múltiples (Howard Gardner)",
+    "count": 8,
+    "answers": [
+      "Lingüística",
+      "Lógico-matemática",
+      "Espacial",
+      "Musical",
+      "Corporal-cinestésica",
+      "Intrapersonal",
+      "Interpersonal",
+      "Naturalista"
+    ]
+  },
+  {
+    "id": 168,
+    "category": "Categorías de peso masculinas en la UFC",
+    "count": 8,
+    "answers": [
+      "Peso mosca",
+      "Peso gallo",
+      "Peso pluma",
+      "Peso ligero",
+      "Peso wélter",
+      "Peso mediano",
+      "Peso semipesado",
+      "Peso pesado"
+    ]
+  },
+  {
+    "id": 169,
+    "category": "Infectados especiales en Left 4 Dead 2",
+    "count": 8,
+    "answers": [
+      "Boomer",
+      "Hunter",
+      "Smoker",
+      "Tank",
+      "Witch",
+      "Charger",
+      "Jockey",
+      "Spitter"
+    ]
+  },
+  {
+    "id": 170,
+    "category": "Miembros de Slipknot (Alineación clásica de 1999)",
+    "count": 9,
+    "answers": [
+      "Corey Taylor",
+      "Mick Thomson",
+      "Shawn Crahan",
+      "Craig Jones",
+      "Jim Root",
+      "Chris Fehn",
+      "Paul Gray",
+      "Joey Jordison",
+      "Sid Wilson"
+    ]
+  },
+  {
+    "id": 171,
+    "category": "Países miembros de la Eurozona (Moneda Euro en 2024)",
+    "count": 20,
+    "answers": [
+      "Alemania",
+      "Austria",
+      "Bélgica",
+      "Chipre",
+      "Croacia",
+      "Eslovaquia",
+      "Eslovenia",
+      "España",
+      "Estonia",
+      "Finlandia",
+      "Francia",
+      "Grecia",
+      "Irlanda",
+      "Italia",
+      "Letonia",
+      "Lituania",
+      "Luxemburgo",
+      "Malta",
+      "Países Bajos",
+      "Portugal"
+    ]
+  },
+  {
+    "id": 172,
+    "category": "Posiciones de juego en Rugby Union (XV)",
+    "count": 11,
+    "answers": [
+      "Pilar izquierdo",
+      "Hooker",
+      "Pilar derecho",
+      "Segunda línea",
+      "Ala",
+      "Ocho",
+      "Medio scrum",
+      "Apertura",
+      "Wing",
+      "Centro",
+      "Fullback"
+    ]
+  },
+  {
+    "id": 173,
+    "category": "Ciudades sede de los Juegos Olímpicos de Verano (1980-2024)",
+    "count": 12,
+    "answers": [
+      "Moscú",
+      "Los Ángeles",
+      "Seúl",
+      "Barcelona",
+      "Atlanta",
+      "Sídney",
+      "Atenas",
+      "Pekín",
+      "Londres",
+      "Río de Janeiro",
+      "Tokio",
+      "París"
+    ]
+  },
+  {
+    "id": 174,
+    "category": "Caballeros de Oro clásicos (Saint Seiya / Los Caballeros del Zodíaco)",
+    "count": 12,
+    "answers": [
+      "Mu de Aries",
+      "Aldebarán de Tauro",
+      "Saga de Géminis",
+      "Máscara de Muerte de Cáncer",
+      "Aioria de Leo",
+      "Shaka de Virgo",
+      "Dohko de Libra",
+      "Milo de Escorpio",
+      "Aioros de Sagitario",
+      "Shura de Capricornio",
+      "Camus de Acuario",
+      "Afrodita de Piscis"
+    ]
+  },
+  {
+    "id": 175,
+    "category": "Videojuegos de la saga Half-Life (PC - Valve)",
+    "count": 8,
+    "answers": [
+      "Half-Life",
+      "Half-Life: Opposing Force",
+      "Half-Life: Blue Shift",
+      "Half-Life: Decay",
+      "Half-Life 2",
+      "Half-Life 2: Episode One",
+      "Half-Life 2: Episode Two",
+      "Half-Life: Alyx"
+    ]
+  },
+  {
+    "id": 176,
+    "category": "Equipos campeones de la NBA (2010-2024)",
+    "count": 10,
+    "answers": [
+      "Los Angeles Lakers",
+      "Dallas Mavericks",
+      "Miami Heat",
+      "San Antonio Spurs",
+      "Golden State Warriors",
+      "Cleveland Cavaliers",
+      "Toronto Raptors",
+      "Milwaukee Bucks",
+      "Denver Nuggets",
+      "Boston Celtics"
+    ]
+  },
+  {
+    "id": 177,
+    "category": "Meses del calendario hebreo",
+    "count": 12,
+    "answers": [
+      "Nisán",
+      "Iyar",
+      "Siván",
+      "Tamuz",
+      "Av",
+      "Elul",
+      "Tishrei",
+      "Jeshván",
+      "Kislev",
+      "Tevet",
+      "Shevat",
+      "Adar"
+    ]
+  },
+  {
+    "id": 178,
+    "category": "Capitales de las provincias de Canadá",
+    "count": 10,
+    "answers": [
+      "Victoria",
+      "Edmonton",
+      "Regina",
+      "Winnipeg",
+      "Toronto",
+      "Quebec",
+      "Fredericton",
+      "Halifax",
+      "Charlottetown",
+      "San Juan de Terranova"
+    ]
+  },
+  {
+    "id": 179,
+    "category": "Versiones mayores de iOS (Sistema operativo de iPhone)",
+    "count": 18,
+    "answers": [
+      "iPhone OS 1",
+      "iPhone OS 2",
+      "iPhone OS 3",
+      "iOS 4",
+      "iOS 5",
+      "iOS 6",
+      "iOS 7",
+      "iOS 8",
+      "iOS 9",
+      "iOS 10",
+      "iOS 11",
+      "iOS 12",
+      "iOS 13",
+      "iOS 14",
+      "iOS 15",
+      "iOS 16",
+      "iOS 17",
+      "iOS 18"
+    ]
+  },
+  {
+    "id": 180,
+    "category": "Juegos de lucha principales de la saga Mortal Kombat",
+    "count": 12,
+    "answers": [
+      "Mortal Kombat",
+      "Mortal Kombat II",
+      "Mortal Kombat 3",
+      "Mortal Kombat 4",
+      "Mortal Kombat: Deadly Alliance",
+      "Mortal Kombat: Deception",
+      "Mortal Kombat: Armageddon",
+      "Mortal Kombat vs. DC Universe",
+      "Mortal Kombat (2011)",
+      "Mortal Kombat X",
+      "Mortal Kombat 11",
+      "Mortal Kombat 1"
+    ]
+  },
+  {
+    "id": 181,
+    "category": "Tribus de Israel (Bíblicas)",
+    "count": 12,
+    "answers": [
+      "Rubén",
+      "Simeón",
+      "Leví",
+      "Judá",
+      "Dan",
+      "Neftalí",
+      "Gad",
+      "Aser",
+      "Isacar",
+      "Zabulón",
+      "José",
+      "Benjamín"
+    ]
+  },
+  {
+    "id": 182,
+    "category": "Grandes Casas de Westeros (Juego de Tronos)",
+    "count": 9,
+    "answers": [
+      "Casa Stark",
+      "Casa Lannister",
+      "Casa Baratheon",
+      "Casa Tyrell",
+      "Casa Martell",
+      "Casa Arryn",
+      "Casa Tully",
+      "Casa Greyjoy",
+      "Casa Targaryen"
+    ]
+  },
+  {
+    "id": 183,
+    "category": "Entrenadores ganadores de la UEFA Champions League (2010-2024)",
+    "count": 10,
+    "answers": [
+      "José Mourinho",
+      "Pep Guardiola",
+      "Roberto Di Matteo",
+      "Jupp Heynckes",
+      "Carlo Ancelotti",
+      "Luis Enrique",
+      "Zinedine Zidane",
+      "Jürgen Klopp",
+      "Hansi Flick",
+      "Thomas Tuchel"
+    ]
+  },
+  {
+    "id": 184,
+    "category": "Minerales presentes en Minecraft (Overworld y Nether)",
+    "count": 11,
+    "answers": [
+      "Carbón",
+      "Hierro",
+      "Cobre",
+      "Oro",
+      "Redstone",
+      "Lapislázuli",
+      "Diamante",
+      "Esmeralda",
+      "Cuarzo del Nether",
+      "Netherite",
+      "Amatista"
+    ]
+  },
+  {
+    "id": 185,
+    "category": "Películas de la saga Rápido y Furioso (Saga principal)",
+    "count": 10,
+    "answers": [
+      "The Fast and the Furious",
+      "2 Fast 2 Furious",
+      "The Fast and the Furious: Tokyo Drift",
+      "Fast & Furious",
+      "Fast Five",
+      "Fast & Furious 6",
+      "Furious 7",
+      "The Fate of the Furious",
+      "F9",
+      "Fast X"
+    ]
+  },
+  {
+    "id": 186,
+    "category": "Ganadores del Óscar al Mejor Actor (2010-2023)",
+    "count": 14,
+    "answers": [
+      "Colin Firth",
+      "Jean Dujardin",
+      "Daniel Day-Lewis",
+      "Matthew McConaughey",
+      "Eddie Redmayne",
+      "Leonardo DiCaprio",
+      "Casey Affleck",
+      "Gary Oldman",
+      "Rami Malek",
+      "Joaquin Phoenix",
+      "Anthony Hopkins",
+      "Will Smith",
+      "Brendan Fraser",
+      "Cillian Murphy"
+    ]
+  },
+  {
+    "id": 187,
+    "category": "Jugadores del plantel argentino campeón del Mundial 1978",
+    "count": 22,
+    "answers": [
+      "Norberto Alonso",
+      "Osvaldo Ardiles",
+      "Héctor Baley",
+      "Daniel Bertoni",
+      "Ubaldo Fillol",
+      "Américo Gallego",
+      "Luis Galván",
+      "Rubén Galván",
+      "René Houseman",
+      "Mario Kempes",
+      "Daniel Killer",
+      "Omar Larrosa",
+      "Ricardo La Volpe",
+      "Leopoldo Luque",
+      "Jorge Olguín",
+      "Oscar Ortiz",
+      "Miguel Oviedo",
+      "Rubén Pagnanini",
+      "Daniel Passarella",
+      "Alberto Tarantini",
+      "José Daniel Valencia",
+      "Julio Ricardo Villa"
+    ]
+  },
+  {
+    "id": 188,
+    "category": "Jugadores del plantel argentino campeón del Mundial 1986",
+    "count": 22,
+    "answers": [
+      "Sergio Almirón",
+      "Sergio Batista",
+      "Ricardo Bochini",
+      "Claudio Borghi",
+      "José Luis Brown",
+      "Daniel Passarella",
+      "Jorge Burruchaga",
+      "Néstor Clausen",
+      "José Luis Cuciuffo",
+      "Diego Maradona",
+      "Jorge Valdano",
+      "Héctor Enrique",
+      "Oscar Garré",
+      "Ricardo Giusti",
+      "Luis Islas",
+      "Julio Olarticoechea",
+      "Pedro Pasculli",
+      "Nery Pumpido",
+      "Oscar Ruggeri",
+      "Carlos Tapia",
+      "Marcelo Trobbiani",
+      "Héctor Zelada"
+    ]
+  },
+  {
+    "id": 189,
+    "category": "Presidentes de la Nación Argentina que eran abogados (Desde 1862)",
+    "count": 20,
+    "answers": [
+      "Miguel Juárez Celman",
+      "Carlos Pellegrini",
+      "Luis Sáenz Peña",
+      "Manuel Quintana",
+      "Roque Sáenz Peña",
+      "Victorino de la Plaza",
+      "Hipólito Yrigoyen",
+      "Marcelo T. de Alvear",
+      "Roberto M. Ortiz",
+      "Ramón Castillo",
+      "Arturo Frondizi",
+      "José María Guido",
+      "Raúl Alfonsín",
+      "Carlos Menem",
+      "Fernando de la Rúa",
+      "Adolfo Rodríguez Saá",
+      "Eduardo Duhalde",
+      "Néstor Kirchner",
+      "Cristina Fernández de Kirchner",
+      "Alberto Fernández"
+    ]
+  },
+  {
+    "id": 190,
+    "category": "Los 10 clubes con más descensos de Primera División (Era profesional)",
+    "count": 10,
+    "answers": [
+      "Quilmes",
+      "Banfield",
+      "Ferro Carril Oeste",
+      "Chacarita Juniors",
+      "Unión de Santa Fe",
+      "Lanús",
+      "Tigre",
+      "Gimnasia y Esgrima La Plata",
+      "Huracán",
+      "Rosario Central"
+    ]
+  },
+  {
+    "id": 191,
+    "category": "Grupos de alimentos que componen la Canasta Básica Alimentaria (INDEC)",
+    "count": 29,
+    "answers": [
+      "Pan",
+      "Galletitas de agua",
+      "Galletitas dulces",
+      "Arroz",
+      "Harina de trigo",
+      "Fideos secos",
+      "Papa",
+      "Batata",
+      "Azúcar",
+      "Dulce de batata",
+      "Legumbres secas",
+      "Hortalizas",
+      "Frutas",
+      "Carnes",
+      "Menudencias",
+      "Fiambres",
+      "Huevos",
+      "Leche fluida",
+      "Queso",
+      "Yogur",
+      "Manteca",
+      "Aceite",
+      "Bebidas no alcohólicas",
+      "Bebidas alcohólicas",
+      "Sal fina",
+      "Vinagre",
+      "Café",
+      "Té",
+      "Yerba mate"
+    ]
+  },
+  {
+    "id": 192,
+    "category": "Estadios de fútbol de Argentina con capacidad superior a 40.000 espectadores",
+    "count": 15,
+    "answers": [
+      "Más Monumental (River Plate)",
+      "La Bombonera (Boca Juniors)",
+      "Mario Alberto Kempes (Córdoba)",
+      "Cilindro de Avellaneda (Racing Club)",
+      "Pedro Bidegain (San Lorenzo)",
+      "José Amalfitani (Vélez Sarsfield)",
+      "Tomás Adolfo Ducó (Huracán)",
+      "Libertadores de América (Independiente)",
+      "Malvinas Argentinas (Mendoza)",
+      "Ciudad de La Plata",
+      "Madre de Ciudades (Santiago del Estero)",
+      "Gigante de Arroyito (Rosario Central)",
+      "Brigadier General Estanislao López (Colón)",
+      "Marcelo Bielsa (Newell's Old Boys)",
+      "Ciudad de Lanús"
+    ]
+  },
+  {
+    "id": 193,
+    "category": "Películas argentinas nominadas al Óscar a la Mejor Película Internacional",
+    "count": 8,
+    "answers": [
+      "La tregua",
+      "Camila",
+      "La historia oficial",
+      "Tango",
+      "El hijo de la novia",
+      "El secreto de sus ojos",
+      "Relatos salvajes",
+      "Argentina 1985"
+    ]
+  },
+  {
+    "id": 194,
+    "category": "Denominaciones de billetes emitidos de la línea Peso (Desde 1992 a la actualidad)",
+    "count": 13,
+    "answers": [
+      "1 peso",
+      "2 pesos",
+      "5 pesos",
+      "10 pesos",
+      "20 pesos",
+      "50 pesos",
+      "100 pesos",
+      "200 pesos",
+      "500 pesos",
+      "1000 pesos",
+      "2000 pesos",
+      "10000 pesos",
+      "20000 pesos"
+    ]
+  },
+  {
+    "id": 195,
+    "category": "Integrantes históricos de Les Luthiers",
+    "count": 7,
+    "answers": [
+      "Gerardo Masana",
+      "Marcos Mundstock",
+      "Daniel Rabinovich",
+      "Jorge Maronna",
+      "Carlos Núñez Cortés",
+      "Carlos López Puccio",
+      "Ernesto Acher"
+    ]
+  },
+  {
+    "id": 196,
+    "category": "Días feriados nacionales inamovibles en Argentina (Ley 27.399)",
+    "count": 11,
+    "answers": [
+      "1 de enero (Año Nuevo)",
+      "Lunes y Martes de Carnaval",
+      "24 de marzo (Día de la Memoria)",
+      "2 de abril (Veteranos de Malvinas)",
+      "Viernes Santo",
+      "1 de mayo (Día del Trabajador)",
+      "25 de mayo (Revolución de Mayo)",
+      "20 de junio (Paso a la Inmortalidad de Belgrano)",
+      "9 de julio (Día de la Independencia)",
+      "8 de diciembre (Inmaculada Concepción)",
+      "25 de diciembre (Navidad)"
+    ]
+  },
+  {
+    "id": 197,
+    "category": "Marcas de automóviles que han fabricado vehículos en Argentina (Históricas y actuales)",
+    "count": 15,
+    "answers": [
+      "Ford",
+      "Chevrolet",
+      "Dodge",
+      "IKA",
+      "Renault",
+      "Peugeot",
+      "Fiat",
+      "Volkswagen",
+      "Citroën",
+      "Toyota",
+      "Honda",
+      "Mercedes-Benz",
+      "Nissan",
+      "Iveco",
+      "Scania"
+    ]
+  },
+  {
+    "id": 198,
+    "category": "Canciones del álbum \"Oktubre\" de Patricio Rey y sus Redonditos de Ricota",
+    "count": 9,
+    "answers": [
+      "Fuego en Oktubre",
+      "Preso en mi ciudad",
+      "Música para pastillas",
+      "Semen-Up",
+      "Divina TV Führer",
+      "Motor psico",
+      "Ji ji ji",
+      "Canción para naufragios",
+      "Ya nadie va a escuchar tu remera"
+    ]
+  },
+  {
+    "id": 199,
+    "category": "Provincias reconocidas como productoras de vino por el Instituto Nacional de Vitivinicultura",
+    "count": 15,
+    "answers": [
+      "Mendoza",
+      "San Juan",
+      "La Rioja",
+      "Salta",
+      "Catamarca",
+      "Neuquén",
+      "Río Negro",
+      "Córdoba",
+      "La Pampa",
+      "Entre Ríos",
+      "Chubut",
+      "Buenos Aires",
+      "Jujuy",
+      "San Luis",
+      "Tucumán"
+    ]
+  },
+  {
+    "id": 200,
+    "category": "Cortes de carne vacuna de la \"Cuota Hilton\" (Exportación de alta calidad)",
+    "count": 7,
+    "answers": [
+      "Bife angosto",
+      "Bife ancho",
+      "Cuadril",
+      "Lomo",
+      "Nalga",
+      "Bola de lomo",
+      "Cuadrada"
+    ]
+  },
+  {
+    "id": 201,
+    "category": "Personajes de la historieta Mafalda (Familia y amigos)",
+    "count": 9,
+    "answers": [
+      "Mafalda",
+      "Mamá (Raquel)",
+      "Papá",
+      "Felipe",
+      "Manolito",
+      "Susanita",
+      "Miguelito",
+      "Guille",
+      "Libertad"
+    ]
+  },
+  {
+    "id": 202,
+    "category": "Localidades del Partido de La Matanza",
+    "count": 15,
+    "answers": [
+      "San Justo",
+      "Ramos Mejía",
+      "Lomas del Mirador",
+      "La Tablada",
+      "Villa Madero",
+      "Tapiales",
+      "Aldo Bonzi",
+      "Ciudad Evita",
+      "Isidro Casanova",
+      "Rafael Castillo",
+      "Gregorio de Laferrere",
+      "González Catán",
+      "Virrey del Pino",
+      "20 de Junio",
+      "Villa Luzuriaga"
+    ]
+  }
+  ,
+  {
+    "id": 203,
+    "category": "Integrantes de la CONADEP (Comisión Nacional sobre la Desaparición de Personas)",
+    "count": 13,
+    "answers": [
+      "Ernesto Sabato",
+      "Ricardo Colombres",
+      "René Favaloro",
+      "Hilario Fernández Long",
+      "Carlos T. Gattinoni",
+      "Gregorio Klimovsky",
+      "Marshall Meyer",
+      "Jaime de Nevares",
+      "Eduardo Rabossi",
+      "Magdalena Ruiz Guiñazú",
+      "Santiago López",
+      "Hugo Piucill",
+      "Horacio Huarte"
+    ]
+  },
+  {
+    "id": 204,
+    "category": "Capitales provinciales argentinas que no llevan el mismo nombre que su provincia",
+    "count": 12,
+    "answers": [
+      "La Plata",
+      "Paraná",
+      "Viedma",
+      "Neuquén",
+      "Rawson",
+      "Río Gallegos",
+      "Ushuaia",
+      "Posadas",
+      "Resistencia",
+      "San Miguel de Tucumán",
+      "San Fernando del Valle de Catamarca",
+      "Santa Rosa"
+    ]
+  },
+  {
+    "id": 205,
+    "category": "Películas dirigidas por Juan José Campanella",
+    "count": 6,
+    "answers": [
+      "El mismo amor la misma lluvia",
+      "El hijo de la novia",
+      "Luna de Avellaneda",
+      "El secreto de sus ojos",
+      "Metegol",
+      "El cuento de las comadrejas"
+    ]
+  },
+  {
+    "id": 206,
+    "category": "Líneas de trenes metropolitanos de pasajeros del AMBA",
+    "count": 8,
+    "answers": [
+      "Línea Sarmiento",
+      "Línea Roca",
+      "Línea Mitre",
+      "Línea San Martín",
+      "Línea Belgrano Norte",
+      "Línea Belgrano Sur",
+      "Línea Urquiza",
+      "Tren de la Costa"
+    ]
+  },
+  {
+    "id": 207,
+    "category": "Equipos campeones del Torneo Metropolitano de Primera División (1967-1984)",
+    "count": 10,
+    "answers": [
+      "Estudiantes de La Plata",
+      "San Lorenzo",
+      "Chacarita Juniors",
+      "Independiente",
+      "Rosario Central",
+      "Huracán",
+      "River Plate",
+      "Boca Juniors",
+      "Newell's Old Boys",
+      "Argentinos Juniors"
+    ]
+  },
+  {
+    "id": 208,
+    "category": "Cortes de la media res vacuna (Desposte tradicional argentino)",
+    "count": 20,
+    "answers": [
+      "Asado",
+      "Vacío",
+      "Matambre",
+      "Tapa de asado",
+      "Falda",
+      "Entraña",
+      "Paleta",
+      "Roast Beef (Aguja)",
+      "Azotillo",
+      "Bife Ancho",
+      "Bife Angosto",
+      "Lomo",
+      "Cuadril",
+      "Bola de Lomo",
+      "Nalga",
+      "Cuadrada",
+      "Peceto",
+      "Tortuguita",
+      "Garrón",
+      "Osobuco"
+    ]
+  },
+  {
+    "id": 209,
+    "category": "Ganadores del reality Gran Hermano Argentina (Ediciones regulares)",
+    "count": 11,
+    "answers": [
+      "Marcelo Corazza",
+      "Roberto Parra",
+      "Viviana Colmenero",
+      "Marianela Mirra",
+      "Esteban Morais",
+      "Cristian Urrizaga",
+      "Rodrigo Fernández",
+      "Francisco Delgado",
+      "Luis Fabián Galesio",
+      "Marcos Ginocchio",
+      "Bautista Mascia"
+    ]
+  },
+  {
+    "id": 210,
+    "category": "Gobernadores de la Provincia de Buenos Aires desde 1983",
+    "count": 8,
+    "answers": [
+      "Alejandro Armendáriz",
+      "Antonio Cafiero",
+      "Eduardo Duhalde",
+      "Carlos Ruckauf",
+      "Felipe Solá",
+      "Daniel Scioli",
+      "María Eugenia Vidal",
+      "Axel Kicillof"
+    ]
+  },
+  {
+    "id": 211,
+    "category": "Integrantes del elenco de humor de VideoMatch en los años 90 (El \"viejo\" VideoMatch)",
+    "count": 16,
+    "answers": [
+      "Pablo Granados",
+      "Pachu Peña",
+      "Fredy Villarreal",
+      "José María Listorti",
+      "Campi",
+      "Yayo Guridi",
+      "Toti Ciliberto",
+      "Pichu Straneo",
+      "Sebastián Almada",
+      "El Turco Naim",
+      "Diego Pérez",
+      "Miguel Ángel Rodríguez",
+      "Leo Rosenwasser",
+      "Teto Medina",
+      "Gonzalo Bonadeo",
+      "Felipe McGough"
+    ]
+  },
+  {
+    "id": 212,
+    "category": "Provincias que limitan con la Provincia de Córdoba",
+    "count": 7,
+    "answers": [
+      "Buenos Aires",
+      "Santa Fe",
+      "Santiago del Estero",
+      "Catamarca",
+      "La Rioja",
+      "San Luis",
+      "La Pampa"
+    ]
+  },
+  {
+    "id": 213,
+    "category": "Telenovelas juveniles producidas por Cris Morena",
+    "count": 8,
+    "answers": [
+      "Chiquititas",
+      "Verano del 98",
+      "Rebelde Way",
+      "Rincón de Luz",
+      "Floricienta",
+      "Alma Pirata",
+      "Casi Ángeles",
+      "Aliados"
+    ]
+  },
+  {
+    "id": 214,
+    "category": "Ciudades argentinas que fueron sede de la Copa América 2011",
+    "count": 7,
+    "answers": [
+      "La Plata",
+      "Santa Fe",
+      "Córdoba",
+      "Mendoza",
+      "San Juan",
+      "San Salvador de Jujuy",
+      "Salta"
+    ]
+  },
+  {
+    "id": 215,
+    "category": "Humoristas gráficos argentinos clásicos (Era dorada)",
+    "count": 11,
+    "answers": [
+      "Quino",
+      "Fontanarrosa",
+      "Caloi",
+      "Landrú",
+      "Oski",
+      "Dante Quinterno",
+      "Guillermo Divito",
+      "Lino Palacio",
+      "Mordillo",
+      "Sendra",
+      "Maitena"
+    ]
+  },
+  {
+    "id": 216,
+    "category": "Autos históricos fabricados por Fiat en Argentina",
+    "count": 12,
+    "answers": [
+      "Fiat 600",
+      "Fiat 1500",
+      "Fiat 128",
+      "Fiat 125",
+      "Fiat 133",
+      "Fiat 147",
+      "Fiat Regatta",
+      "Fiat Duna",
+      "Fiat Uno",
+      "Fiat Palio",
+      "Fiat Siena",
+      "Fiat Cronos"
+    ]
+  },
+  {
+    "id": 221,
+    "category": "Agentes de Valorant (Roster actual completo)",
+    "count": 26,
+    "answers": [
+      "Jett",
+      "Phoenix",
+      "Neon",
+      "Raze",
+      "Reyna",
+      "Yoru",
+      "Iso",
+      "Brimstone",
+      "Viper",
+      "Omen",
+      "Astra",
+      "Harbor",
+      "Clove",
+      "Sova",
+      "Breach",
+      "Skye",
+      "KAY/O",
+      "Fade",
+      "Gekko",
+      "Tejo",
+      "Sage",
+      "Cypher",
+      "Killjoy",
+      "Chamber",
+      "Deadlock",
+      "Vyse"
+    ]
+  },
+  {
+    "id": 222,
+    "category": "Juegos de la saga principal de Call of Duty (Consolas y PC)",
+    "count": 21,
+    "answers": [
+      "Call of Duty",
+      "Call of Duty 2",
+      "Call of Duty 3",
+      "Call of Duty 4: Modern Warfare",
+      "World at War",
+      "Modern Warfare 2",
+      "Black Ops",
+      "Modern Warfare 3",
+      "Black Ops II",
+      "Ghosts",
+      "Advanced Warfare",
+      "Black Ops III",
+      "Infinite Warfare",
+      "WWII",
+      "Black Ops 4",
+      "Modern Warfare (2019)",
+      "Black Ops Cold War",
+      "Vanguard",
+      "Modern Warfare II",
+      "Modern Warfare III",
+      "Black Ops 6"
+    ]
+  },
+  {
+    "id": 223,
+    "category": "Colosos en Shadow of the Colossus",
+    "count": 16,
+    "answers": [
+      "Valus",
+      "Quadratus",
+      "Gaius",
+      "Phaedra",
+      "Avion",
+      "Barba",
+      "Hydrus",
+      "Kuromori",
+      "Basaran",
+      "Dirge",
+      "Celosia",
+      "Pelagia",
+      "Phalanx",
+      "Cenobia",
+      "Argus",
+      "Malus"
+    ]
+  },
+  {
+    "id": 224,
+    "category": "Juegos de la saga principal de Resident Evil (Numerados y Biohazard)",
+    "count": 10,
+    "answers": [
+      "Resident Evil 0",
+      "Resident Evil",
+      "Resident Evil 2",
+      "Resident Evil 3",
+      "Resident Evil Code: Veronica",
+      "Resident Evil 4",
+      "Resident Evil 5",
+      "Resident Evil 6",
+      "Resident Evil 7: Biohazard",
+      "Resident Evil Village"
+    ]
+  },
+  {
+    "id": 225,
+    "category": "Juegos de la saga Assassin's Creed (Entregas principales en consolas)",
+    "count": 13,
+    "answers": [
+      "Assassin's Creed",
+      "Assassin's Creed II",
+      "Assassin's Creed: Brotherhood",
+      "Assassin's Creed: Revelations",
+      "Assassin's Creed III",
+      "Assassin's Creed IV: Black Flag",
+      "Assassin's Creed Rogue",
+      "Assassin's Creed Unity",
+      "Assassin's Creed Syndicate",
+      "Assassin's Creed Origins",
+      "Assassin's Creed Odyssey",
+      "Assassin's Creed Valhalla",
+      "Assassin's Creed Mirage"
+    ]
+  },
+  {
+    "id": 226,
+    "category": "Mapas competitivos de Valorant (Rotación histórica completa)",
+    "count": 11,
+    "answers": [
+      "Bind",
+      "Haven",
+      "Split",
+      "Ascent",
+      "Icebox",
+      "Breeze",
+      "Fracture",
+      "Pearl",
+      "Lotus",
+      "Sunset",
+      "Abyss"
+    ]
+  },
+  {
+    "id": 227,
+    "category": "Personajes jugables en Super Smash Bros. Melee",
+    "count": 25,
+    "answers": [
+      "Dr. Mario",
+      "Mario",
+      "Luigi",
+      "Bowser",
+      "Peach",
+      "Yoshi",
+      "Donkey Kong",
+      "Captain Falcon",
+      "Ganondorf",
+      "Falco",
+      "Fox",
+      "Ness",
+      "Ice Climbers",
+      "Kirby",
+      "Samus",
+      "Zelda",
+      "Link",
+      "Young Link",
+      "Pichu",
+      "Pikachu",
+      "Jigglypuff",
+      "Mewtwo",
+      "Mr. Game & Watch",
+      "Marth",
+      "Roy"
+    ]
+  },
+  {
+    "id": 228,
+    "category": "Juegos de la saga God of War (Lanzamientos en consolas)",
+    "count": 8,
+    "answers": [
+      "God of War",
+      "God of War II",
+      "God of War: Chains of Olympus",
+      "God of War III",
+      "God of War: Ghost of Sparta",
+      "God of War: Ascension",
+      "God of War (2018)",
+      "God of War Ragnarök"
+    ]
+  },
+  {
+    "id": 229,
+    "category": "Jefes de Terraria (Modo Pre-Hardmode)",
+    "count": 8,
+    "answers": [
+      "King Slime",
+      "Eye of Cthulhu",
+      "Eater of Worlds",
+      "Brain of Cthulhu",
+      "Queen Bee",
+      "Skeletron",
+      "Deerclops",
+      "Wall of Flesh"
+    ]
+  },
+  {
+    "id": 230,
+    "category": "Tipos de Pikmin (Saga principal)",
+    "count": 9,
+    "answers": [
+      "Rojo",
+      "Amarillo",
+      "Azul",
+      "Morado",
+      "Blanco",
+      "Roca",
+      "Alado",
+      "Hielo",
+      "Brillante"
+    ]
+  },
+  {
+    "id": 231,
+    "category": "Personajes de Street Fighter 6 (Roster de lanzamiento)",
+    "count": 18,
+    "answers": [
+      "Luke",
+      "Jamie",
+      "Manon",
+      "Kimberly",
+      "Marisa",
+      "Lily",
+      "JP",
+      "Juri",
+      "Dee Jay",
+      "Cammy",
+      "Ryu",
+      "E. Honda",
+      "Blanka",
+      "Guile",
+      "Ken",
+      "Chun-Li",
+      "Zangief",
+      "Dhalsim"
+    ]
+  },
+  {
+    "id": 232,
+    "category": "Rifles disponibles en Counter-Strike 2 (Menú de compra)",
+    "count": 11,
+    "answers": [
+      "Galil AR",
+      "FAMAS",
+      "AK-47",
+      "M4A4",
+      "M4A1-S",
+      "SSG 08",
+      "SG 553",
+      "AUG",
+      "AWP",
+      "G3SG1",
+      "SCAR-20"
+    ]
+  },
+  {
+    "id": 233,
+    "category": "Juegos de la saga principal de Final Fantasy (Numerados)",
+    "count": 16,
+    "answers": [
+      "Final Fantasy I",
+      "Final Fantasy II",
+      "Final Fantasy III",
+      "Final Fantasy IV",
+      "Final Fantasy V",
+      "Final Fantasy VI",
+      "Final Fantasy VII",
+      "Final Fantasy VIII",
+      "Final Fantasy IX",
+      "Final Fantasy X",
+      "Final Fantasy XI",
+      "Final Fantasy XII",
+      "Final Fantasy XIII",
+      "Final Fantasy XIV",
+      "Final Fantasy XV",
+      "Final Fantasy XVI"
+    ]
+  },
+  {
+    "id": 234,
+    "category": "Expansiones de World of Warcraft",
+    "count": 10,
+    "answers": [
+      "The Burning Crusade",
+      "Wrath of the Lich King",
+      "Cataclysm",
+      "Mists of Pandaria",
+      "Warlords of Draenor",
+      "Legion",
+      "Battle for Azeroth",
+      "Shadowlands",
+      "Dragonflight",
+      "The War Within"
+    ]
+  },
+  {
+    "id": 235,
+    "category": "Rangos competitivos en Rocket League (De menor a mayor)",
+    "count": 8,
+    "answers": [
+      "Bronce",
+      "Plata",
+      "Oro",
+      "Platino",
+      "Diamante",
+      "Campeón",
+      "Gran Campeón",
+      "Leyenda Supersónica"
+    ]
+  },
+  {
+    "id": 236,
+    "category": "Provincias de Tamriel (The Elder Scrolls)",
+    "count": 9,
+    "answers": [
+      "Skyrim",
+      "Cyrodiil",
+      "Morrowind",
+      "High Rock",
+      "Hammerfell",
+      "Summerset Isles",
+      "Valenwood",
+      "Elsweyr",
+      "Black Marsh"
+    ]
+  },
+  {
+    "id": 237,
+    "category": "Mapas de PUBG (PC y Consolas)",
+    "count": 10,
+    "answers": [
+      "Erangel",
+      "Miramar",
+      "Sanhok",
+      "Vikendi",
+      "Karakin",
+      "Paramo",
+      "Haven",
+      "Taego",
+      "Deston",
+      "Rondo"
+    ]
+  },
+  {
+    "id": 238,
+    "category": "Juegos de la saga Far Cry (Principales y Spin-offs de consola)",
+    "count": 9,
+    "answers": [
+      "Far Cry",
+      "Far Cry 2",
+      "Far Cry 3",
+      "Far Cry 3: Blood Dragon",
+      "Far Cry 4",
+      "Far Cry Primal",
+      "Far Cry 5",
+      "Far Cry New Dawn",
+      "Far Cry 6"
+    ]
+  },
+  {
+    "id": 239,
+    "category": "Juegos de FromSoftware dirigidos por Hidetaka Miyazaki",
+    "count": 8,
+    "answers": [
+      "Demon's Souls",
+      "Dark Souls",
+      "Bloodborne",
+      "Dark Souls III",
+      "Déraciné",
+      "Sekiro: Shadows Die Twice",
+      "Elden Ring",
+      "Armored Core VI: Fires of Rubicon"
+    ]
+  },
+  {
+    "id": 240,
+    "category": "Juegos de lucha de la saga Mortal Kombat (Principales)",
+    "count": 12,
+    "answers": [
+      "Mortal Kombat",
+      "Mortal Kombat II",
+      "Mortal Kombat 3",
+      "Mortal Kombat 4",
+      "Mortal Kombat: Deadly Alliance",
+      "Mortal Kombat: Deception",
+      "Mortal Kombat: Armageddon",
+      "Mortal Kombat vs. DC Universe",
+      "Mortal Kombat (2011)",
+      "Mortal Kombat X",
+      "Mortal Kombat 11",
+      "Mortal Kombat 1"
+    ]
+  },
+  {
+    "id": 241,
+    "category": "Personajes jugables en Mario Kart 64",
+    "count": 8,
+    "answers": [
+      "Mario",
+      "Luigi",
+      "Peach",
+      "Toad",
+      "Yoshi",
+      "Donkey Kong",
+      "Wario",
+      "Bowser"
+    ]
+  },
+  {
+    "id": 242,
+    "category": "Tipos de armas en Monster Hunter World",
+    "count": 14,
+    "answers": [
+      "Gran espada",
+      "Espada larga",
+      "Espada y escudo",
+      "Espadas dobles",
+      "Martillo",
+      "Cornamusa",
+      "Lanza",
+      "Lanza pistola",
+      "Hacha espada",
+      "Hacha cargada",
+      "Glaive insecto",
+      "Ballesta ligera",
+      "Ballesta pesada",
+      "Arco"
+    ]
+  },
+  {
+    "id": 243,
+    "category": "Regiones principales de la saga Pokémon",
+    "count": 9,
+    "answers": [
+      "Kanto",
+      "Johto",
+      "Hoenn",
+      "Sinnoh",
+      "Teselia (Unova)",
+      "Kalos",
+      "Alola",
+      "Galar",
+      "Paldea"
+    ]
+  },
+  {
+    "id": 244,
+    "category": "Juegos de lucha de la saga Tekken (Numerados y Tag)",
+    "count": 10,
+    "answers": [
+      "Tekken",
+      "Tekken 2",
+      "Tekken 3",
+      "Tekken Tag Tournament",
+      "Tekken 4",
+      "Tekken 5",
+      "Tekken 6",
+      "Tekken Tag Tournament 2",
+      "Tekken 7",
+      "Tekken 8"
+    ]
+  },
+  {
+    "id": 245,
+    "category": "Héroes de atributo Universal en Dota 2",
+    "count": 31,
+    "answers": [
+      "Abaddon",
+      "Bane",
+      "Batrider",
+      "Beastmaster",
+      "Brewmaster",
+      "Broodmother",
+      "Chen",
+      "Clockwerk",
+      "Dark Seer",
+      "Dark Willow",
+      "Dazzle",
+      "Enigma",
+      "Io",
+      "Lone Druid",
+      "Lycan",
+      "Magnus",
+      "Marci",
+      "Mirana",
+      "Nyx Assassin",
+      "Pangolier",
+      "Phoenix",
+      "Sand King",
+      "Snapfire",
+      "Techies",
+      "Timbersaw",
+      "Vengeful Spirit",
+      "Venomancer",
+      "Visage",
+      "Void Spirit",
+      "Windranger",
+      "Winter Wyvern"
+    ]
+  },
+  {
+    "id": 246,
+    "category": "Supervivientes jugables en Left 4 Dead 1 y 2",
+    "count": 8,
+    "answers": [
+      "Bill",
+      "Zoey",
+      "Francis",
+      "Louis",
+      "Coach",
+      "Ellis",
+      "Nick",
+      "Rochelle"
+    ]
+  },
+  {
+    "id": 247,
+    "category": "Clases de personaje en Dark Souls (Juego base)",
+    "count": 10,
+    "answers": [
+      "Guerrero",
+      "Caballero",
+      "Vagabundo",
+      "Ladrón",
+      "Bandido",
+      "Cazador",
+      "Hechicero",
+      "Piromántico",
+      "Clérigo",
+      "Marginado"
+    ]
+  },
+  {
+    "id": 248,
+    "category": "Videojuegos FPS de la saga Halo",
+    "count": 8,
+    "answers": [
+      "Halo: Combat Evolved",
+      "Halo 2",
+      "Halo 3",
+      "Halo 3: ODST",
+      "Halo: Reach",
+      "Halo 4",
+      "Halo 5: Guardians",
+      "Halo Infinite"
+    ]
+  },
+  {
+    "id": 249,
+    "category": "Evoluciones de Eevee (Pokémon)",
+    "count": 8,
+    "answers": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon",
+      "Sylveon"
+    ]
+  },
+  {
+    "id": 250,
+    "category": "Juegos de la saga principal de Dragon Quest (Numerados)",
+    "count": 11,
+    "answers": [
+      "Dragon Quest",
+      "Dragon Quest II",
+      "Dragon Quest III",
+      "Dragon Quest IV",
+      "Dragon Quest V",
+      "Dragon Quest VI",
+      "Dragon Quest VII",
+      "Dragon Quest VIII",
+      "Dragon Quest IX",
+      "Dragon Quest X",
+      "Dragon Quest XI"
+    ]
   }
 ]
