@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "category": "Planetas del Sistema Solar",
     "count": 8,
     "answers": [
@@ -15,7 +14,6 @@
     ]
   },
   {
-    "id": 2,
     "category": "Elementos químicos con símbolo de una sola letra",
     "count": 14,
     "answers": [
@@ -36,7 +34,6 @@
     ]
   },
   {
-    "id": 3,
     "category": "Pares craneales del cuerpo humano",
     "count": 12,
     "answers": [
@@ -55,7 +52,6 @@
     ]
   },
   {
-    "id": 4,
     "category": "Países soberanos con costa en el mar Mediterráneo",
     "count": 21,
     "answers": [
@@ -83,7 +79,6 @@
     ]
   },
   {
-    "id": 5,
     "category": "Signos del horóscopo chino",
     "count": 12,
     "answers": [
@@ -102,7 +97,6 @@
     ]
   },
   {
-    "id": 6,
     "category": "Selecciones campeonas de la Copa Mundial de Fútbol Masculino (FIFA)",
     "count": 8,
     "answers": [
@@ -117,7 +111,6 @@
     ]
   },
   {
-    "id": 7,
     "category": "Miembros del G20 (Grupo de los Veinte)",
     "count": 21,
     "answers": [
@@ -145,7 +138,6 @@
     ]
   },
   {
-    "id": 8,
     "category": "Los 12 trabajos de Hércules",
     "count": 12,
     "answers": [
@@ -164,7 +156,6 @@
     ]
   },
   {
-    "id": 9,
     "category": "Dioses del Olimpo (Panteón principal)",
     "count": 12,
     "answers": [
@@ -183,7 +174,6 @@
     ]
   },
   {
-    "id": 10,
     "category": "Largometrajes dirigidos por Quentin Tarantino",
     "count": 10,
     "answers": [
@@ -200,7 +190,6 @@
     ]
   },
   {
-    "id": 11,
     "category": "Los Diez Mandamientos (Tradición judeocristiana catequética)",
     "count": 10,
     "answers": [
@@ -217,7 +206,6 @@
     ]
   },
   {
-    "id": 12,
     "category": "Las diez plagas de Egipto",
     "count": 10,
     "answers": [
@@ -234,7 +222,6 @@
     ]
   },
   {
-    "id": 13,
     "category": "Círculos del Infierno (La Divina Comedia)",
     "count": 9,
     "answers": [
@@ -250,7 +237,6 @@
     ]
   },
   {
-    "id": 14,
     "category": "Musas de la mitología griega",
     "count": 9,
     "answers": [
@@ -266,7 +252,6 @@
     ]
   },
   {
-    "id": 15,
     "category": "Renos de Santa Claus",
     "count": 9,
     "answers": [
@@ -282,7 +267,6 @@
     ]
   },
   {
-    "id": 16,
     "category": "Películas de la Saga Skywalker (Star Wars)",
     "count": 9,
     "answers": [
@@ -298,7 +282,6 @@
     ]
   },
   {
-    "id": 17,
     "category": "Los 12 Apóstoles originales de Jesús",
     "count": 12,
     "answers": [
@@ -317,7 +300,6 @@
     ]
   },
   {
-    "id": 18,
     "category": "Capitales de los estados federados de Brasil",
     "count": 27,
     "answers": [
@@ -351,7 +333,6 @@
     ]
   },
   {
-    "id": 19,
     "category": "Islas principales del archipiélago de las Canarias",
     "count": 8,
     "answers": [
@@ -366,7 +347,6 @@
     ]
   },
   {
-    "id": 20,
     "category": "Países limítrofes de Brasil",
     "count": 10,
     "answers": [
@@ -383,7 +363,6 @@
     ]
   },
   {
-    "id": 21,
     "category": "Países limítrofes de la Francia Metropolitana",
     "count": 8,
     "answers": [
@@ -398,7 +377,6 @@
     ]
   },
   {
-    "id": 22,
     "category": "Países soberanos que empiezan con la letra I",
     "count": 8,
     "answers": [
@@ -413,7 +391,6 @@
     ]
   },
   {
-    "id": 23,
     "category": "Reyes de España de la dinastía Borbón",
     "count": 11,
     "answers": [
@@ -431,7 +408,6 @@
     ]
   },
   {
-    "id": 24,
     "category": "Presidentes de Estados Unidos desde el final de la Segunda Guerra Mundial (1945-2024)",
     "count": 14,
     "answers": [
@@ -452,7 +428,6 @@
     ]
   },
   {
-    "id": 25,
     "category": "Enanos de la compañía de Thorin (El Hobbit)",
     "count": 13,
     "answers": [
@@ -472,7 +447,6 @@
     ]
   },
   {
-    "id": 26,
     "category": "Países soberanos atravesados por la línea del Ecuador",
     "count": 13,
     "answers": [
@@ -492,7 +466,6 @@
     ]
   },
   {
-    "id": 27,
     "category": "Mariscales del Primer Imperio Francés (Napoleón I)",
     "count": 26,
     "answers": [
@@ -525,7 +498,6 @@
     ]
   },
   {
-    "id": 28,
     "category": "Elementos químicos del Periodo 3",
     "count": 8,
     "answers": [
@@ -540,7 +512,6 @@
     ]
   },
   {
-    "id": 29,
     "category": "Géneros de nubes (Clasificación de la OMM)",
     "count": 10,
     "answers": [
@@ -557,7 +528,6 @@
     ]
   },
   {
-    "id": 30,
     "category": "Selecciones ganadoras de la Eurocopa de fútbol",
     "count": 10,
     "answers": [
@@ -574,7 +544,6 @@
     ]
   },
   {
-    "id": 31,
     "category": "Escuderías de Fórmula 1 (Temporada 2024)",
     "count": 10,
     "answers": [
@@ -591,7 +560,6 @@
     ]
   },
   {
-    "id": 32,
     "category": "Capitales de los países de América del Sur",
     "count": 12,
     "answers": [
@@ -610,7 +578,6 @@
     ]
   },
   {
-    "id": 33,
     "category": "Períodos geológicos del Eón Fanerozoico",
     "count": 12,
     "answers": [
@@ -629,7 +596,6 @@
     ]
   },
   {
-    "id": 34,
     "category": "Avatares principales de Vishnu (Dashavatara)",
     "count": 10,
     "answers": [
@@ -646,7 +612,6 @@
     ]
   },
   {
-    "id": 35,
     "category": "Países con armas nucleares (declarados y de facto)",
     "count": 9,
     "answers": [
@@ -662,7 +627,6 @@
     ]
   },
   {
-    "id": 36,
     "category": "Cancilleres de la República Federal de Alemania (1949-2024)",
     "count": 9,
     "answers": [
@@ -678,7 +642,6 @@
     ]
   },
   {
-    "id": 37,
     "category": "Prefijos del Sistema Internacional para múltiplos mayores a 1",
     "count": 12,
     "answers": [
@@ -697,7 +660,6 @@
     ]
   },
   {
-    "id": 38,
     "category": "Colores de la bandera LGBT original (Diseño de 1978 de Gilbert Baker)",
     "count": 8,
     "answers": [
@@ -712,7 +674,6 @@
     ]
   },
   {
-    "id": 39,
     "category": "Papas de la Iglesia Católica desde 1900",
     "count": 11,
     "answers": [
@@ -730,7 +691,6 @@
     ]
   },
   {
-    "id": 40,
     "category": "Largometrajes dirigidos por Christopher Nolan",
     "count": 12,
     "answers": [
@@ -749,7 +709,6 @@
     ]
   },
   {
-    "id": 41,
     "category": "Álbumes de estudio de Patricio Rey y sus Redonditos de Ricota",
     "count": 10,
     "answers": [
@@ -766,7 +725,6 @@
     ]
   },
   {
-    "id": 42,
     "category": "Países miembros de la Eurozona",
     "count": 20,
     "answers": [
@@ -793,7 +751,6 @@
     ]
   },
   {
-    "id": 43,
     "category": "Comunidades Autónomas de España",
     "count": 17,
     "answers": [
@@ -817,7 +774,6 @@
     ]
   },
   {
-    "id": 44,
     "category": "Departamentos de Uruguay",
     "count": 19,
     "answers": [
@@ -843,7 +799,6 @@
     ]
   },
   {
-    "id": 45,
     "category": "Estados federados de Alemania (Länder)",
     "count": 16,
     "answers": [
@@ -866,7 +821,6 @@
     ]
   },
   {
-    "id": 46,
     "category": "Regiones de Italia",
     "count": 20,
     "answers": [
@@ -893,7 +847,6 @@
     ]
   },
   {
-    "id": 47,
     "category": "Torneos de tenis actuales de categoría ATP Masters 1000",
     "count": 9,
     "answers": [
@@ -909,7 +862,6 @@
     ]
   },
   {
-    "id": 48,
     "category": "Las 12 tribus de Israel",
     "count": 12,
     "answers": [
@@ -928,7 +880,6 @@
     ]
   },
   {
-    "id": 49,
     "category": "Países soberanos que empiezan con la letra E",
     "count": 12,
     "answers": [
@@ -947,7 +898,6 @@
     ]
   },
   {
-    "id": 50,
     "category": "Presidentes de facto de Argentina (1930-1983)",
     "count": 13,
     "answers": [
@@ -967,7 +917,6 @@
     ]
   },
   {
-    "id": 51,
     "category": "Provincias de Canadá",
     "count": 10,
     "answers": [
@@ -984,7 +933,6 @@
     ]
   },
   {
-    "id": 52,
     "category": "Países que limitan con el mar Báltico",
     "count": 9,
     "answers": [
@@ -1000,7 +948,6 @@
     ]
   },
   {
-    "id": 53,
     "category": "Cantones de Suiza",
     "count": 26,
     "answers": [
@@ -1033,7 +980,6 @@
     ]
   },
   {
-    "id": 54,
     "category": "Hijos de la Reina Victoria del Reino Unido",
     "count": 9,
     "answers": [
@@ -1049,7 +995,6 @@
     ]
   },
   {
-    "id": 55,
     "category": "Líderes supremos de la Unión Soviética (Secretarios Generales/Jefes de Estado de facto)",
     "count": 8,
     "answers": [
@@ -1064,7 +1009,6 @@
     ]
   },
   {
-    "id": 56,
     "category": "Clubes de fútbol argentinos campeones de la Copa Libertadores",
     "count": 8,
     "answers": [
@@ -1079,7 +1023,6 @@
     ]
   },
   {
-    "id": 57,
     "category": "Estados de México",
     "count": 31,
     "answers": [
@@ -1117,7 +1060,6 @@
     ]
   },
   {
-    "id": 58,
     "category": "Piedras preciosas del grupo del corindón y el berilo (Variedades principales)",
     "count": 8,
     "answers": [
@@ -1132,7 +1074,6 @@
     ]
   },
   {
-    "id": 59,
     "category": "Miembros fundadores de la OTAN (1949)",
     "count": 12,
     "answers": [
@@ -1151,7 +1092,6 @@
     ]
   },
   {
-    "id": 60,
     "category": "Universidades de la Ivy League",
     "count": 8,
     "answers": [
@@ -1166,7 +1106,6 @@
     ]
   },
   {
-    "id": 61,
     "category": "Fases lunares (Ciclo completo)",
     "count": 8,
     "answers": [
@@ -1181,7 +1120,6 @@
     ]
   },
   {
-    "id": 62,
     "category": "Sistemas del cuerpo humano",
     "count": 11,
     "answers": [
@@ -1199,7 +1137,6 @@
     ]
   },
   {
-    "id": 63,
     "category": "Aminoácidos estándar (Proteinogénicos)",
     "count": 20,
     "answers": [
@@ -1226,7 +1163,6 @@
     ]
   },
   {
-    "id": 64,
     "category": "Largometrajes dirigidos por Stanley Kubrick",
     "count": 13,
     "answers": [
@@ -1246,7 +1182,6 @@
     ]
   },
   {
-    "id": 65,
     "category": "Álbumes de estudio de The Beatles (Edición británica oficial)",
     "count": 13,
     "answers": [
@@ -1266,7 +1201,6 @@
     ]
   },
   {
-    "id": 66,
     "category": "Álbumes de estudio de Pink Floyd",
     "count": 15,
     "answers": [
@@ -1288,7 +1222,6 @@
     ]
   },
   {
-    "id": 67,
     "category": "Álbumes de estudio de Radiohead",
     "count": 9,
     "answers": [
@@ -1304,7 +1237,6 @@
     ]
   },
   {
-    "id": 68,
     "category": "Largometrajes dirigidos por Hayao Miyazaki (Studio Ghibli y pre-Ghibli)",
     "count": 12,
     "answers": [
@@ -1323,7 +1255,6 @@
     ]
   },
   {
-    "id": 69,
     "category": "Clases de personajes jugables en Dungeons & Dragons (5ta Edición - Manual del Jugador)",
     "count": 12,
     "answers": [
@@ -1342,7 +1273,6 @@
     ]
   },
   {
-    "id": 70,
     "category": "Letras del alfabeto griego",
     "count": 24,
     "answers": [
@@ -1373,7 +1303,6 @@
     ]
   },
   {
-    "id": 71,
     "category": "Código fonético de la OTAN (Alfabeto radiofónico)",
     "count": 26,
     "answers": [
@@ -1406,7 +1335,6 @@
     ]
   },
   {
-    "id": 72,
     "category": "Monarquías soberanas actuales de Europa",
     "count": 12,
     "answers": [
@@ -1425,7 +1353,6 @@
     ]
   },
   {
-    "id": 73,
     "category": "Países miembros de BRICS+ (a enero 2024)",
     "count": 9,
     "answers": [
@@ -1441,7 +1368,6 @@
     ]
   },
   {
-    "id": 74,
     "category": "Civilizaciones originales de Age of Empires II (The Age of Kings)",
     "count": 13,
     "answers": [
@@ -1461,7 +1387,6 @@
     ]
   },
   {
-    "id": 75,
     "category": "Largometrajes dirigidos por David Fincher",
     "count": 12,
     "answers": [
@@ -1480,7 +1405,6 @@
     ]
   },
   {
-    "id": 76,
     "category": "Elementos químicos del Periodo 2",
     "count": 8,
     "answers": [
@@ -1495,7 +1419,6 @@
     ]
   },
   {
-    "id": 77,
     "category": "Números primos menores a 20",
     "count": 8,
     "answers": [
@@ -1510,7 +1433,6 @@
     ]
   },
   {
-    "id": 78,
     "category": "Rangos taxonómicos principales (Biología)",
     "count": 8,
     "answers": [
@@ -1525,7 +1447,6 @@
     ]
   },
   {
-    "id": 79,
     "category": "Departamentos de Bolivia",
     "count": 9,
     "answers": [
@@ -1541,7 +1462,6 @@
     ]
   },
   {
-    "id": 80,
     "category": "Países limítrofes de Rusia",
     "count": 14,
     "answers": [
@@ -1562,7 +1482,6 @@
     ]
   },
   {
-    "id": 81,
     "category": "Presidentes del Gobierno de España desde la transición (1976-2024)",
     "count": 7,
     "answers": [
@@ -1576,7 +1495,6 @@
     ]
   },
   {
-    "id": 82,
     "category": "Provincias de los Países Bajos",
     "count": 12,
     "answers": [
@@ -1595,7 +1513,6 @@
     ]
   },
   {
-    "id": 83,
     "category": "Misiones tripuladas del programa Apolo",
     "count": 11,
     "answers": [
@@ -1613,7 +1530,6 @@
     ]
   },
   {
-    "id": 84,
     "category": "Escala de Mohs (Dureza de minerales)",
     "count": 10,
     "answers": [
@@ -1630,7 +1546,6 @@
     ]
   },
   {
-    "id": 85,
     "category": "Pilotos de Fórmula 1 con 3 o más campeonatos mundiales",
     "count": 11,
     "answers": [
@@ -1648,7 +1563,6 @@
     ]
   },
   {
-    "id": 86,
     "category": "Circuitos de la temporada 2024 de Fórmula 1",
     "count": 24,
     "answers": [
@@ -1679,7 +1593,6 @@
     ]
   },
   {
-    "id": 87,
     "category": "Posiciones en un equipo de Rugby Union (XV)",
     "count": 12,
     "answers": [
@@ -1698,7 +1611,6 @@
     ]
   },
   {
-    "id": 88,
     "category": "Largometrajes dirigidos por Wes Anderson",
     "count": 11,
     "answers": [
@@ -1716,7 +1628,6 @@
     ]
   },
   {
-    "id": 89,
     "category": "Álbumes de estudio de Led Zeppelin",
     "count": 9,
     "answers": [
@@ -1732,7 +1643,6 @@
     ]
   },
   {
-    "id": 90,
     "category": "Primeros Ministros del Reino Unido en el siglo XXI (2000-2024)",
     "count": 8,
     "answers": [
@@ -1747,7 +1657,6 @@
     ]
   },
   {
-    "id": 91,
     "category": "Meses del calendario hebreo (incluyendo Adar II)",
     "count": 13,
     "answers": [
@@ -1767,7 +1676,6 @@
     ]
   },
   {
-    "id": 92,
     "category": "Frutos del Espíritu Santo (Tradición católica/Gálatas 5)",
     "count": 12,
     "answers": [
@@ -1786,7 +1694,6 @@
     ]
   },
   {
-    "id": 93,
     "category": "Signatarios del Acta de la Independencia Argentina (Congreso de Tucumán)",
     "count": 29,
     "answers": [
@@ -1822,7 +1729,6 @@
     ]
   },
   {
-    "id": 94,
     "category": "Series de Star Trek en acción real (Live Action)",
     "count": 8,
     "answers": [
@@ -1837,7 +1743,6 @@
     ]
   },
   {
-    "id": 95,
     "category": "Doctores de la serie Doctor Who (Numeración oficial)",
     "count": 16,
     "answers": [
@@ -1860,7 +1765,6 @@
     ]
   },
   {
-    "id": 96,
     "category": "Estados de Austria (Bundesländer)",
     "count": 9,
     "answers": [
@@ -1876,7 +1780,6 @@
     ]
   },
   {
-    "id": 97,
     "category": "Equipos actuales de la NBA (Conferencia Este)",
     "count": 15,
     "answers": [
@@ -1898,7 +1801,6 @@
     ]
   },
   {
-    "id": 98,
     "category": "Equipos actuales de la NBA (Conferencia Oeste)",
     "count": 15,
     "answers": [
@@ -1920,7 +1822,6 @@
     ]
   },
   {
-    "id": 99,
     "category": "Estados de los Estados Unidos que empiezan con la letra M",
     "count": 8,
     "answers": [
@@ -1935,7 +1836,6 @@
     ]
   },
   {
-    "id": 100,
     "category": "Estados de los Estados Unidos que empiezan con la letra N",
     "count": 8,
     "answers": [
@@ -1948,5 +1848,490 @@
       "Carolina del Norte",
       "Dakota del Norte"
     ]
+  },
+  {
+    "category": "Aplicaciones de google",
+    "count": 29,
+    "answers": [
+      "Google Search", "Google Alerts", "Google Assistant", "Gemini", "Google Books", "Google Dataset Search", "Google Flights", "Google Images", "Google Shopping", "Google Travel", "Google Videos", "Chrome Music Lab", "Google Arts & Culture", "Google Finance", "Google News", "YouTube", "Gmail", "Google Calendar", "Google Drive", "Google Docs", "Google Sheets", "Google Slides", "Google Translate", "Google Maps", "Google Earth", "Google My Maps", "Google Street View", "Google Chrome", "Android"
+    ]
+  },
+  {
+    "category": "Marcas de Pepsico",
+    "count": 28,
+    "answers": [
+      "7Up", "Aquafina", "Brisk", "Bubly", "Cheetos", "Cracker Jack", "Doritos", "Gatorade", "Lay's", "Lipton", "Mountain Dew", "Pepsi", "Propel", "Pure Leaf", "Quaker", "Rockstar", "Ruffles", "SoBe", "SodaStream", "Starbucks", "Starry", "Tostitos", "Bakenets", "Bare Snacks", "Captain Crunch", "Munchies", "Funyuns", "Popcorners"
+    ]
+  },
+  {
+    "category": "Marcas de the coca-cola company",
+    "count": 29,
+    "answers": [
+      "Coca-Cola", "Diet Coke", "Sprite", "Fanta", "Fresca", "Schweppes", "Powerade", "Dasani", "smartwater", "vitaminwater", "Minute Maid", "Simply", "Gold Peak", "Honest", "Fuze", "Costa", "fairlife", "Bodyarmor", "Topo Chico", "Aquarius", "AHA", "Peace Tea", "Core Power", "Del Valle", "Maaza", "Ciel", "ILOHAS", "Ayataka", "Chivita"
+    ]
+  },
+  {
+    "category": "Canciones del mundial de League of Legends",
+    "count": 12,
+    "answers": [
+      "Warriors", "Worlds Collide", "Ignite", "Legends Never Die", "RISE", "Phoenix", "Take Over", "Burn It All Down", "STAR WALKIN'", "GODS", "HEAVY IS THE CROWN", "Sacrifice"
+    ]
+  },
+  {
+    "category": "Top 10 canciones de babasonicos en spotify",
+    "count": 10,
+    "answers": [
+      "Como Eran Las Cosas", "Irresponsables", "El Loco", "Puesto", "Putita", "Viva Satana", "Los Calientes", "Rubí", "Fizz", "Desfachatados"
+    ]
+  },
+  {
+    "category": "Streamers con mas vistas segun twitch",
+    "count": 20,
+    "answers": [
+      "Jynxzi", "TheBurntPeanut", "zackrawrr", "Caedrel", "HasanAbi", "KaiCenat", "xQc", "Ibai", "Amouranth", "Pokimane", "Ludwig", "TimTheTatman", "Ninja", "Shroud", "Summit1g", "Forsen", "Tyler1", "Lirik", "DrDisRespect", "Asmongold"
+    ]
+  },
+  {
+    "category": "Películas de Studio Ghibli",
+    "count": 22,
+    "answers": [
+      "Nausicaä of the Valley of the Wind", "Castle in the Sky", "My Neighbor Totoro", "Kiki's Delivery Service", "Porco Rosso", "Princess Mononoke", "Spirited Away", "The Cat Returns", "Howl's Moving Castle", "Tales from Earthsea", "Ponyo", "The Secret World of Arrietty", "From Up on Poppy Hill", "The Wind Rises", "When Marnie Was There", "The Tale of the Princess Kaguya", "The Red Turtle", "Earwig and the Witch", "The Boy and the Heron", "Whisper of the Heart", "Ocean Waves", "Pom Poko"
+    ]
+  },
+  {
+    "category": "Juegos principales de la saga The Legend of Zelda",
+    "count": 18,
+    "answers": [
+      "The Legend of Zelda", "Zelda II: The Adventure of Link", "The Legend of Zelda: A Link to the Past", "The Legend of Zelda: Link's Awakening", "The Legend of Zelda: Ocarina of Time", "The Legend of Zelda: Majora's Mask", "The Legend of Zelda: Oracle of Ages", "The Legend of Zelda: Oracle of Seasons", "The Legend of Zelda: The Wind Waker", "The Legend of Zelda: The Minish Cap", "The Legend of Zelda: Twilight Princess", "The Legend of Zelda: Phantom Hourglass", "The Legend of Zelda: Spirit Tracks", "The Legend of Zelda: Skyward Sword", "The Legend of Zelda: A Link Between Worlds", "The Legend of Zelda: Breath of the Wild", "The Legend of Zelda: Tears of the Kingdom", "The Legend of Zelda: Echoes of Wisdom"
+    ]
+  },
+  {
+    "category": "Álbumes de estudio de The Beatles",
+    "count": 13,
+    "answers": [
+      "Please Please Me", "With the Beatles", "A Hard Day's Night", "Beatles for Sale", "Help!", "Rubber Soul", "Revolver", "Sgt. Pepper's Lonely Hearts Club Band", "Magical Mystery Tour", "The Beatles", "Yellow Submarine", "Abbey Road", "Let It Be"
+    ]
+  },
+  {
+    "category": "Ganadores del Premio Nobel de Literatura desde 2010 hasta 2024",
+    "count": 15,
+    "answers": [
+      "Mario Vargas Llosa", "Tomas Tranströmer", "Mo Yan", "Alice Munro", "Patrick Modiano", "Svetlana Alexievich", "Bob Dylan", "Kazuo Ishiguro", "Olga Tokarczuk", "Peter Handke", "Louise Glück", "Abdulrazak Gurnah", "Annie Ernaux", "Jon Fosse", "Han Kang"
+    ]
+  },
+  {
+    "category": "Ordenes de mamíferos",
+    "count": 27,
+    "answers": [
+      "Artiodactyla", "Carnivora", "Chiroptera", "Eulipotyphla", "Lagomorpha", "Perissodactyla", "Primates", "Rodentia", "Cetacea", "Sirenia", "Proboscidea", "Hyracoidea", "Tubulidentata", "Pholidota", "Pilosa", "Cingulata", "Macroscelidea", "Scandentia", "Dermoptera", "Afrosoricida", "Paucituberculata", "Didelphimorphia", "Dasyuromorphia", "Peramelemorphia", "Diprotodontia", "Monotremata", "Microbiotheria"
+    ]
+  },
+  {
+    "category": "Presidentes de Argentina desde 1983 hasta 2026",
+    "count": 9,
+    "answers": [
+      "Raúl Alfonsín", "Carlos Menem", "Fernando de la Rúa", "Eduardo Duhalde", "Néstor Kirchner", "Cristina Fernández de Kirchner", "Mauricio Macri", "Alberto Fernández", "Javier Milei"
+    ]
+  },
+  {
+    "category": "Películas ganadoras del Oscar a Mejor Película de 2010 a 2025",
+    "count": 16,
+    "answers": [
+      "The Hurt Locker", "The King's Speech", "The Artist", "Argo", "12 Years a Slave", "Birdman", "Spotlight", "Moonlight", "The Shape of Water", "Parasite", "Nomadland", "CODA", "Everything Everywhere All at Once", "Oppenheimer", "Poor Things", "Anora"
+    ]
+  },
+  {
+    "category": "Miembros de Patricio Rey y sus Redonditos de Ricota",
+    "count": 5,
+    "answers": [
+      "Carlos \"Indio\" Solari", "Eduardo \"Skay\" Beilinson", "Daniel «Semilla» Bucciarelli", "Sergio Dawi", "Walter Sidotti"
+    ]
+  },
+  {
+    "category": "Personajes de la farandula argentina mas buscado en google",
+    "count": 6,
+    "answers": [
+      "Franco Colapinto", "Thiago Medina", "Cristina Fernández de Kirchner", "Julieta Prandi", "Robert Prevost", "Ander"
+    ]
+  },
+  {
+    "category": "Canciones de El ultimo bondi a finisterre de patricio rey",
+    "count": 12,
+    "answers": [
+      "El último bondi a Finisterre", "La bestia pop", "Ya nadie va a ser un esclavo", "El pibe de los astilleros", "La mosca", "El mundo es un pañuelo", "La rubia del bar", "El blues del pibe", "La niña del umbral", "El que está solo", "La última noche", "El último bondi"
+    ]
+  },
+  {
+    "category": "Canciones de tercer arco",
+    "count": 10,
+    "answers": [
+      "Tercer Arco", "La hija del fletero", "La mosca", "El pibe de los astilleros", "Ya nadie va a ser un esclavo", "El mundo es un pañuelo", "La rubia del bar", "El blues del pibe", "La niña del umbral", "El que está solo"
+    ]
+  },
+  {
+    "category": "Mamiferos sin piernas",
+    "count": 1,
+    "answers": [
+      "(ninguno, pero categoría no usada por ambigüedad)"
+    ]
+  },
+  {
+    "category": "Razas de Perro",
+    "count": 1,
+    "answers": [
+      "(categoría adaptada a grupo FCI grupo 9 para exhaustividad, pero no usada por no encajar)"
+    ]
+  },
+  {
+    "category": "Videojuegos de la saga Mario Kart",
+    "count": 11,
+    "answers": [
+      "Super Mario Kart", "Mario Kart 64", "Mario Kart: Super Circuit", "Mario Kart: Double Dash!!", "Mario Kart DS", "Mario Kart Wii", "Mario Kart 7", "Mario Kart 8", "Mario Kart 8 Deluxe", "Mario Kart Tour"
+    ]
+  },
+  {
+    "category": "Películas de Pixar",
+    "count": 29,
+    "answers": [
+      "Toy Story", "A Bug's Life", "Toy Story 2", "Monsters, Inc.", "Finding Nemo", "The Incredibles", "Cars", "Ratatouille", "WALL-E", "Up", "Toy Story 3", "Cars 2", "Brave", "Monsters University", "Inside Out", "The Good Dinosaur", "Finding Dory", "Cars 3", "Coco", "Incredibles 2", "Toy Story 4", "Onward", "Soul", "Luca", "Turning Red", "Lightyear", "Elemental", "Inside Out 2"
+    ]
+  },
+  {
+    "category": "Ganadores del Oscar a Mejor Actor desde 2010 hasta 2025",
+    "count": 15,
+    "answers": [
+      "Colin Firth", "Jean Dujardin", "Daniel Day-Lewis", "Matthew McConaughey", "Eddie Redmayne", "Leonardo DiCaprio", "Casey Affleck", "Gary Oldman", "Rami Malek", "Joaquin Phoenix", "Anthony Hopkins", "Will Smith", "Brenden Fraser", "Cillian Murphy", "Paul Mescal"
+    ]
+  },
+  {
+    "category": "Bandas de rock argentino de los 80",
+    "count": 10,
+    "answers": [
+      "Soda Stereo", "Patricio Rey y sus Redonditos de Ricota", "Sumo", "Los Fabulosos Cadillacs", "Virus", "Enanitos Verdes", "Babasónicos", "Divididos", "Las Pelotas", "Los Piojos"
+    ]
+  },
+  {
+    "category": "Personajes principales de One Piece",
+    "count": 10,
+    "answers": [
+      "Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Franky", "Brook", "Jinbe"
+    ]
+  },
+  {
+    "category": "Elementos químicos del periodo 1 a 7 de la tabla periódica",
+    "count": 118,
+    "answers": [
+      "Hydrogen", "Helium", "Lithium", "Beryllium", "Boron", "Carbon", "Nitrogen", "Oxygen", "Fluorine", "Neon", "Sodium", "Magnesium", "Aluminium", "Silicon", "Phosphorus", "Sulfur", "Chlorine", "Argon", "Potassium", "Calcium", "Scandium", "Titanium", "Vanadium", "Chromium", "Manganese", "Iron", "Cobalt", "Nickel", "Copper", "Zinc", "Gallium", "Germanium", "Arsenic", "Selenium", "Bromine", "Krypton", "Rubidium", "Strontium", "Yttrium", "Zirconium", "Niobium", "Molybdenum", "Technetium", "Ruthenium", "Rhodium", "Palladium", "Silver", "Cadmium", "Indium", "Tin", "Antimony", "Tellurium", "Iodine", "Xenon", "Caesium", "Barium", "Lanthanum", "Cerium", "Praseodymium", "Neodymium", "Promethium", "Samarium", "Europium", "Gadolinium", "Terbium", "Dysprosium", "Holmium", "Erbium", "Thulium", "Ytterbium", "Lutetium", "Hafnium", "Tantalum", "Tungsten", "Rhenium", "Osmium", "Iridium", "Platinum", "Gold", "Mercury", "Thallium", "Lead", "Bismuth", "Polonium", "Astatine", "Radon", "Francium", "Radium", "Actinium", "Thorium", "Protactinium", "Uranium", "Neptunium", "Plutonium", "Americium", "Curium", "Berkelium", "Californium", "Einsteinium", "Fermium", "Mendelevium", "Nobelium", "Lawrencium", "Rutherfordium", "Dubnium", "Seaborgium", "Bohrium", "Hassium", "Meitnerium", "Darmstadtium", "Roentgenium", "Copernicium", "Nihonium", "Flerovium", "Moscovium", "Livermorium", "Tennessine", "Oganesson"
+    ]
+  },
+  {
+    "category": "Novelas de Gabriel García Márquez",
+    "count": 11,
+    "answers": [
+      "Cien años de soledad", "El coronel no tiene quien le escriba", "La hojarasca", "Los funerales de la Mamá Grande", "La mala hora", "El otoño del patriarca", "Crónica de una muerte anunciada", "El amor en los tiempos del cólera", "El general en su laberinto", "Del amor y otros demonios", "Memoria de mis putas tristes"
+    ]
+  },
+  {
+    "category": "Albums de Soda Stereo",
+    "count": 10,
+    "answers": [
+      "Soda Stereo", "Nada personal", "Un mal día o un buen día", "Signos", "Doble vida", "Canción animal", "Dynamo", "Soda Stereo (reissue)", "Comfort y música para volar"
+    ]
+  },
+  {
+    "category": "Personajes de la saga Harry Potter",
+    "count": 10,
+    "answers": [
+      "Harry Potter", "Ron Weasley", "Hermione Granger", "Albus Dumbledore", "Lord Voldemort", "Severus Snape", "Sirius Black", "Remus Lupin", "Draco Malfoy", "Ginny Weasley"
+    ]
+  },
+  {
+    "category": "Canciones de Babasónicos",
+    "count": 14,
+    "answers": [
+      "Irresponsables", "El Loco", "Putita", "Como Eran Las Cosas", "Puesto", "Viva Satana", "Los Calientes", "Rubí", "Fizz", "Desfachatados", "Shambala", "Anubis", "Cretino"
+    ]
+  },
+  {
+    "category": "Ganadores de la Copa Libertadores equipos argentinos",
+    "count": 8,
+    "answers": [
+      "Independiente", "Boca Juniors", "River Plate", "Racing", "Estudiantes de La Plata", "San Lorenzo", "Vélez Sarsfield", "Argentinos Juniors"
+    ]
+  },
+  {
+    "category": "Especies de pingüinos",
+    "count": 18,
+    "answers": [
+      "Emperador", "Rey", "Adélie", "Gentoo", "Chinstrap", "Macaroni", "Rockhopper", "Fiordland", "Snares", "Erect-crested", "Royal", "African", "Humboldt", "Magellanic", "Galápagos", "Little", "Yellow-eyed", "Southern Rockhopper"
+    ]
+  },
+  {
+    "category": "Planetas del sistema solar",
+    "count": 8,
+    "answers": [
+      "Mercurio", "Venus", "Tierra", "Marte", "Júpiter", "Saturno", "Urano", "Neptuno"
+    ]
+  },
+  {
+    "category": "Películas de Quentin Tarantino",
+    "count": 10,
+    "answers": [
+      "Reservoir Dogs", "Pulp Fiction", "Jackie Brown", "Kill Bill Vol. 1", "Kill Bill Vol. 2", "Death Proof", "Inglourious Basterds", "Django Unchained", "The Hateful Eight", "Once Upon a Time in Hollywood"
+    ]
+  },
+  {
+    "category": "Integrantes de Los Redonditos de Ricota",
+    "count": 5,
+    "answers": [
+      "Carlos \"Indio\" Solari", "Eduardo \"Skay\" Beilinson", "Daniel «Semilla» Bucciarelli", "Sergio Dawi", "Walter Sidotti"
+    ]
+  },
+  {
+    "category": "Top 10 streamers con más vistas segun twitch",
+    "count": 10,
+    "answers": [
+      "Jynxzi", "TheBurntPeanut", "zackrawrr", "Caedrel", "HasanAbi", "KaiCenat", "xQc", "Ibai", "Amouranth", "Pokimane"
+    ]
+  },
+  {
+    "category": "Canciones de El ultimo bondi a finisterre de patricio rey",
+    "count": 11,
+    "answers": [
+      "La bestia pop", "Ya nadie va a ser un esclavo", "El pibe de los astilleros", "La mosca", "El mundo es un pañuelo", "La rubia del bar", "El blues del pibe", "La niña del umbral", "El que está solo", "La última noche"
+    ]
+  },
+  {
+    "category": "Canciones de tercer arco",
+    "count": 10,
+    "answers": [
+      "Tercer Arco", "La hija del fletero", "La mosca", "El pibe de los astilleros", "Ya nadie va a ser un esclavo", "El mundo es un pañuelo", "La rubia del bar", "El blues del pibe", "La niña del umbral", "El que está solo"
+    ]
+  },
+  {
+    "category": "Personajes de la farandula argentina mas buscado en google",
+    "count": 10,
+    "answers": [
+      "Franco Colapinto", "Thiago Medina", "Cristina Fernández de Kirchner", "Julieta Prandi", "Robert Prevost", "Ander", "Moria Casán", "Susana Giménez", "Marcelo Tinelli", "Pampita"
+    ]
+  },
+  {
+    "category": "Razas de Perro",
+    "count": 1,
+    "answers": [
+      "(adaptado a exhaustivo grupo FCI grupo 9, pero no usado por límite)"
+    ]
+  },
+  {
+    "category": "Mamiferos sin piernas",
+    "count": 1,
+    "answers": [
+      "(no aplicable por ambigüedad, no usado)"
+    ]
+  },
+  {
+    "category": "Álbumes de Babasónicos",
+    "count": 13,
+    "answers": [
+      "Fizz", "Dopádromo", "Jessico", "Anoche", "Rompha", "Mucho", "Infame", "Vedette", "Caravana", "El pasado", "Discutible", "Trinchera"
+    ]
+  },
+  {
+    "category": "Películas de Hayao Miyazaki",
+    "count": 11,
+    "answers": [
+      "Nausicaä of the Valley of the Wind", "Castle in the Sky", "My Neighbor Totoro", "Kiki's Delivery Service", "Porco Rosso", "Princess Mononoke", "Spirited Away", "Howl's Moving Castle", "Ponyo", "The Wind Rises", "The Boy and the Heron"
+    ]
+  },
+  {
+    "category": "Videojuegos de la saga Final Fantasy",
+    "count": 16,
+    "answers": [
+      "Final Fantasy", "Final Fantasy II", "Final Fantasy III", "Final Fantasy IV", "Final Fantasy V", "Final Fantasy VI", "Final Fantasy VII", "Final Fantasy VIII", "Final Fantasy IX", "Final Fantasy X", "Final Fantasy XI", "Final Fantasy XII", "Final Fantasy XIII", "Final Fantasy XIV", "Final Fantasy XV", "Final Fantasy XVI"
+    ]
+  },
+  {
+    "category": "Ganadores del Oscar a Mejor Director desde 2010 hasta 2025",
+    "count": 15,
+    "answers": [
+      "Kathryn Bigelow", "Tom Hooper", "Michel Hazanavicius", "Ang Lee", "Alfonso Cuarón", "Alejandro G. Iñárritu", "Damien Chazelle", "Guillermo del Toro", "Alfonso Cuarón", "Bong Joon-ho", "Chloé Zhao", "Jane Campion", "Daniel Kwan y Daniel Scheinert", "Christopher Nolan", "Yorgos Lanthimos"
+    ]
+  },
+  {
+    "category": "Novelas de Jorge Luis Borges",
+    "count": 10,
+    "answers": [
+      "El Aleph", "Ficciones", "El informe de Brodie", "El libro de arena", "Historia universal de la infamia", "El hacedor", "Elogio de la sombra", "La rosa profunda", "La moneda de hierro", "El libro de los seres imaginarios"
+    ]
+  },
+  {
+    "category": "Canciones de Soda Stereo",
+    "count": 10,
+    "answers": [
+      "De música ligera", "Persiana americana", "Cuando pase el temblor", "En la ciudad de la furia", "Trátame suavemente", "Nada personal", "Signos", "El rito", "Prófugos", "Un misil en mi placard"
+    ]
+  },
+  {
+    "category": "Personajes de Dragon Ball",
+    "count": 10,
+    "answers": [
+      "Goku", "Vegeta", "Piccolo", "Gohan", "Krillin", "Bulma", "Trunks", "Frieza", "Cell", "Majin Buu"
+    ]
+  },
+  {
+    "category": "Películas de Christopher Nolan",
+    "count": 11,
+    "answers": [
+      "Memento", "Insomnia", "Batman Begins", "The Prestige", "The Dark Knight", "Inception", "The Dark Knight Rises", "Interstellar", "Dunkirk", "Tenet", "Oppenheimer"
+    ]
+  },
+  {
+    "category": "Álbumes de Patricio Rey y sus Redonditos de Ricota",
+    "count": 11,
+    "answers": [
+      "Gulp!", "Oktubre", "Bang Bang estás liquidado", "La mosca y la sopa", "Lobo suelto", "Cordero atado", "Un poco de amor francés", "La última noche de la tribu", "Momo Sampler", "El último bondi a Finisterre", "Tercer Arco"
+    ]
+  },
+  {
+    "category": "Especies de cetáceos",
+    "count": 10,
+    "answers": [
+      "Ballena azul", "Ballena jorobada", "Ballena gris", "Orca", "Delfín nariz de botella", "Delfín común", "Narval", "Beluga", "Cachalote", "Rorcual común"
+    ]
+  },
+  {
+    "category": "Presidentes de Argentina desde 1853 hasta 1983",
+    "count": 41,
+    "answers": [
+      "Justo José de Urquiza", "Bartolomé Mitre", "Domingo Faustino Sarmiento", "Nicolás Avellaneda", "Julio Argentino Roca", "Miguel Juárez Celman", "Carlos Pellegrini", "Luis Sáenz Peña", "José Evaristo Uriburu", "Julio Argentino Roca", "Manuel Quintana", "José Evaristo Uriburu", "Manuel Quintana", "Roque Sáenz Peña", "Victorino de la Plaza", "Hipólito Yrigoyen", "Marcelo T. de Alvear", "Hipólito Yrigoyen", "Agustín P. Justo", "Roberto M. Ortiz", "Ramón S. Castillo", "Arturo Rawson", "Pedro Pablo Ramírez", "Edelmiro Julián Farrell", "Juan Domingo Perón", "Eduardo Lonardi", "Pedro Eugenio Aramburu", "Arturo Frondizi", "José María Guido", "Arturo Illia", "Juan Carlos Onganía", "Roberto Marcelo Levingston", "Alejandro Agustín Lanusse", "Héctor José Cámpora", "Raúl Lastiri", "Juan Domingo Perón", "Isabel Martínez de Perón", "Jorge Rafael Videla", "Roberto Viola", "Leopoldo Galtieri", "Reynaldo Bignone"
+    ]
+  },
+  {
+    "category": "Películas de Stanley Kubrick",
+    "count": 12,
+    "answers": [
+      "The Killing", "Paths of Glory", "Spartacus", "Lolita", "Dr. Strangelove", "2001: A Space Odyssey", "A Clockwork Orange", "Barry Lyndon", "The Shining", "Full Metal Jacket", "Eyes Wide Shut"
+    ]
+  },
+  {
+    "category": "Canciones de League of Legends",
+    "count": 13,
+    "answers": [
+      "Warriors", "Ignite", "Legends Never Die", "RISE", "Phoenix", "Take Over", "Burn It All Down", "STAR WALKIN'", "GODS", "HEAVY IS THE CROWN", "Sacrifice", "Rise"
+    ]
+  },
+  {
+    "category": "Novelas de Julio Cortázar",
+    "count": 10,
+    "answers": [
+      "Rayuela", "Los premios", "62 Modelo para armar", "Libro de Manuel", "Historias de cronopios y de famas", "Todos los fuegos el fuego", "Final del juego", "Las armas secretas", "Octaedro", "Alguien que anda por ahí"
+    ]
+  },
+  {
+    "category": "Videojuegos de la saga Resident Evil",
+    "count": 13,
+    "answers": [
+      "Resident Evil", "Resident Evil 2", "Resident Evil 3", "Resident Evil 4", "Resident Evil 5", "Resident Evil 6", "Resident Evil 7", "Resident Evil Village", "Resident Evil Code: Veronica", "Resident Evil Zero", "Resident Evil Revelations", "Resident Evil Revelations 2"
+    ]
+  },
+  {
+    "category": "Ganadores del Premio Nobel de Física desde 2010 hasta 2025",
+    "count": 24,
+    "answers": [
+      "Andre Geim y Konstantin Novoselov", "Saul Perlmutter", "Brian Schmidt y Adam Riess", "Serge Haroche y David Wineland", "François Englert y Peter Higgs", "Isamu Akasaki", "Hiroshi Amano y Shuji Nakamura", "Takaaki Kajita y Arthur B. McDonald", "David J. Thouless", "F. Duncan M. Haldane y J. Michael Kosterlitz", "Rainer Weiss", "Barry C. Barish y Kip S. Thorne", "Arthur Ashkin", "Gérard Mourou y Donna Strickland", "James Peebles", "Michel Mayor y Didier Queloz", "Roger Penrose", "Reinhard Genzel y Andrea Ghez", "Syukuro Manabe", "Klaus Hasselmann y Giorgio Parisi", "Alain Aspect", "John Clauser y Anton Zeilinger", "Ferenc Krausz y Anne L'Huillier", "Pierre Agostini"
+    ]
+  },
+  {
+    "category": "Películas de Wes Anderson",
+    "count": 12,
+    "answers": [
+      "Bottle Rocket", "Rushmore", "The Royal Tenenbaums", "The Life Aquatic with Steve Zissou", "The Darjeeling Limited", "Fantastic Mr. Fox", "Moonrise Kingdom", "The Grand Budapest Hotel", "Isle of Dogs", "The French Dispatch", "Asteroid City"
+    ]
+  },
+  {
+    "category": "Álbumes de Los Fabulosos Cadillacs",
+    "count": 9,
+    "answers": [
+      "Bares y Fondas", "El ritmo es nuestro", "Yo te avisé", "El satánico Dr. Cadillac", "La luz del ritmo", "Vasos vacíos", "El amor y el dolor", "En vivo en el teatro Colón"
+    ]
+  },
+  {
+    "category": "Personajes de Naruto",
+    "count": 10,
+    "answers": [
+      "Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake", "Itachi Uchiha", "Jiraiya", "Tsunade", "Orochimaru", "Gaara", "Rock Lee"
+    ]
+  },
+  {
+    "category": "Canciones de Babasónicos",
+    "count": 17,
+    "answers": [
+      "Irresponsables", "El Loco", "Putita", "Como Eran Las Cosas", "Puesto", "Viva Satana", "Los Calientes", "Rubí", "Fizz", "Desfachatados", "Shambala", "Anubis", "Cretino", "Sin mi diablo", "Tajada", "El Colmo"
+    ]
+  },
+  {
+    "category": "Películas de Akira Kurosawa",
+    "count": 13,
+    "answers": [
+      "Rashomon", "Seven Samurai", "Throne of Blood", "The Hidden Fortress", "Yojimbo", "Sanjuro", "High and Low", "Red Beard", "Kagemusha", "Ran", "Dreams", "Rhapsody in August", "Madadayo"
+    ]
+  },
+  {
+    "category": "Videojuegos de la saga Metal Gear",
+    "count": 9,
+    "answers": [
+      "Metal Gear", "Metal Gear 2: Solid Snake", "Metal Gear Solid", "Metal Gear Solid 2: Sons of Liberty", "Metal Gear Solid 3: Snake Eater", "Metal Gear Solid 4: Guns of the Patriots", "Metal Gear Solid Peace Walker", "Metal Gear Solid V: The Phantom Pain"
+    ]
+  },
+  {
+    "category": "Ganadores del Oscar a Mejor Actriz desde 2010 hasta 2025",
+    "count": 16,
+    "answers": [
+      "Sandra Bullock", "Natalie Portman", "Meryl Streep", "Jennifer Lawrence", "Cate Blanchett", "Julianne Moore", "Brie Larson", "Emma Stone", "Frances McDormand", "Olivia Colman", "Renée Zellweger", "Viola Davis", "Jessica Chastain", "Michelle Yeoh", "Emma Stone", "Lily Gladstone"
+    ]
+  },
+  {
+    "category": "Novelas de Mario Vargas Llosa",
+    "count": 20,
+    "answers": [
+      "La ciudad y los perros", "La casa verde", "Los cachorros", "Conversación en La Catedral", "Pantaleón y las visitadoras", "La tía Julia y el escribidor", "La guerra del fin del mundo", "Historia de Mayta", "¿Quién mató a Palomino Molero?", "El hablador", "Elogio de la madrastra", "Lituma en los Andes", "Los cuadernos de don Rigoberto", "La fiesta del Chivo", "El Paraíso en la otra esquina", "Travesuras de la niña mala", "El sueño del celta", "El héroe discreto", "Cinco esquinas", "Tiempos recios"
+    ]
+  },
+  {
+    "category": "Álbumes de Divididos",
+    "count": 8,
+    "answers": [
+      "40 dibujos ahí", "Acapulco", "Otro letrero", "La era de la banalidad", "Golpes de calor", "Vengo del placard de otro", "Viveza criolla"
+    ]
+  },
+  {
+    "category": "Películas de Guillermo del Toro",
+    "count": 12,
+    "answers": [
+      "Cronos", "Mimic", "The Devil's Backbone", "Blade II", "Hellboy", "Hellboy II: The Golden Army", "Pan's Labyrinth", "Pacific Rim", "Crimson Peak", "The Shape of Water", "Nightmare Alley", "Pinocchio"
+    ]
+  },
+  {
+    "category": "Videojuegos de la saga God of War",
+    "count": 6,
+    "answers": [
+      "God of War", "God of War II", "God of War III", "God of War: Ascension", "God of War (2018)", "God of War Ragnarök"
+    ]
+  },
+  {
+    "category": "Ganadores del Oscar a Mejor Película Extranjera desde 2010 hasta 2025",
+    "count": 15,
+    "answers": [
+      "The Secret in Their Eyes", "In a Better World", "A Separation", "Amour", "The Great Beauty", "Ida", "Son of Saul", "The Salesman", "A Fantastic Woman", "Roma", "Parasite", "Another Round", "Drive My Car", "All Quiet on the Western Front", "The Zone of Interest"
+    ]
+  },
+  {
+    "category": "Canciones de El ultimo bondi a finisterre de patricio rey",
+    "count": 12,
+    "answers": [
+      "La bestia pop", "Ya nadie va a ser un esclavo", "El pibe de los astilleros", "La mosca", "El mundo es un pañuelo", "La rubia del bar", "El blues del pibe", "La niña del umbral", "El que está solo", "La última noche", "El último bondi"
+    ]
   }
+
+
 ]
